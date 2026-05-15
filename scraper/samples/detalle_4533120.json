@@ -1,8 +1,121 @@
 {
-    "datetime": "13/05/2026 13:37:58",
-    "request-id": "a07dc5c7-3bca-42b8-ba63-92f20588a4a4",
+    "datetime": "15/05/2026 08:58:36",
+    "request-id": "913adfa4-4b93-4d99-be5e-1a6ae44a5051",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 4533120,
+            "numero": 157,
+            "anio": "2022",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10138,
+            "cveMateria": 1,
+            "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+            "fechaRadicacion": "2022-02-02 11:56:03",
+            "cveUsuario": 8575,
+            "observaciones": "1 ACTA DE NACIMIENTO EN COPIA CERTIIFCADA\n46 TICKETS DIVERSOS \n3 MANUSCRITOS \n2 IMPRESIONES FOTOGRAFICAS \n1 TRASLADO. ",
+            "cveEstatus": 1,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 567,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2023-01-24T07:49:19.000000Z",
+            "descCarpetaJudicial": "157/2022 - PRINCIPAL ANTERIOR  ",
+            "fojas": 7,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "VIOLENCIA FAMILIAR ",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10144,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10138,
+                "DesJuz": "JUZGADO SEXTO CIVIL DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+                "desCorta": "6 Civ de Chalco (Ixtapaluca)"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 22,
+            "descModalidad": "VIOLENCIA INTRAFAMILIAR"
+        },
+        "juicio": {
+            "cveLiti": 265,
+            "descLiti": "CONTROVERSIA DE VIOLENCIA FAMILIAR"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 9978158,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "",
+                    "edad": 35,
+                    "fechaNacimiento": "1987-01-17",
+                    "CURP": "",
+                    "cveGenero": 1,
+                    "activo": "S",
+                    "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-24T23:54:44.000000Z",
+                    "cveTipoPersona": 2,
+                    "nombrePersonaMoral": "DAVID IVAN PEÑA RANGEL",
+                    "numFolioConvivencia": 39725,
+                    "nombreCompleto": "DAVID IVAN PEÑA RANGEL",
+                    "tipoPersona": "MORAL",
+                    "genero": "HOMBRE"
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 9978159,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "",
+                    "edad": 28,
+                    "fechaNacimiento": "1994-09-07",
+                    "CURP": "",
+                    "cveGenero": 2,
+                    "activo": "S",
+                    "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-24T23:54:44.000000Z",
+                    "cveTipoPersona": 2,
+                    "nombrePersonaMoral": "SANTAN LUCIA SOLIS GARCIA",
+                    "numFolioConvivencia": 39726,
+                    "nombreCompleto": "SANTAN LUCIA SOLIS GARCIA",
+                    "tipoPersona": "MORAL",
+                    "genero": "MUJER"
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

@@ -1,65 +1,60 @@
-from scraper.utils.constants import API_URL
+import requests
+
+from scraper.utils.constants import (
+    API_URL
+)
+
+from scraper.services.auth_service import (
+    request_get
+)
 
 
-def obtener_expedientes(page, materia=1):
+def obtener_expedientes(
+    materia=1,
+    materias=None,
+    adolescentes=None
+):
 
     url = (
         f"{API_URL}/expedientes-autorizados"
-        f"?cveMateria[]={materia}"
     )
 
-    data = page.evaluate(
-        """
-        async (url) => {
+    if materias is None:
+        materias = [materia]
 
-            const token = localStorage.getItem("token");
+    params = [
+        ("cveMateria[]", m)
+        for m in materias
+    ]
 
-            const response = await fetch(url, {
+    if adolescentes is not None:
+        params.append(
+            ("adolescentes", adolescentes)
+        )
 
-                method: "GET",
-
-                headers: {
-                    "Authorization": `Bearer ${token}`,
-                    "Content-Type": "application/json"
-                }
-            });
-
-            return await response.json();
-        }
-        """,
-        url
+    response = request_get(
+        url,
+        params=params,
+        timeout=120
     )
 
-    return data
+    return response.json()
 
 
-def obtener_detalle_expediente(page, id_carpeta):
+def obtener_detalle_expediente(
+    id_carpeta
+):
 
     url = (
         f"{API_URL}/portadas/obtener-carpetas-judiciales"
-        f"?idCarpetaJudicial={id_carpeta}"
     )
 
-    data = page.evaluate(
-        """
-        async (url) => {
-
-            const token = localStorage.getItem("token");
-
-            const response = await fetch(url, {
-
-                method: "GET",
-
-                headers: {
-                    "Authorization": `Bearer ${token}`,
-                    "Content-Type": "application/json"
-                }
-            });
-
-            return await response.json();
-        }
-        """,
-        url
+    response = request_get(
+        url,
+        params={
+            "idCarpetaJudicial": id_carpeta
+        },
+        timeout=120
     )
 
-    return data
+    return response.json()

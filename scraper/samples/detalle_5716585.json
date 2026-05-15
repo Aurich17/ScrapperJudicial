@@ -1,8 +1,121 @@
 {
-    "datetime": "13/05/2026 13:38:00",
-    "request-id": "cc8b48d2-699e-4e26-a2a2-904cb2866e2a",
+    "datetime": "15/05/2026 09:02:42",
+    "request-id": "41f5ad3c-44f7-4a9b-a5d4-31fc67c96606",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 5716585,
+            "numero": 31570,
+            "anio": "2023",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 738,
+            "cveMateria": 1,
+            "fechaRegistro": "2023-08-26T05:20:00.000000Z",
+            "fechaRadicacion": "2023-08-25 23:20:00",
+            "cveUsuario": 9635,
+            "observaciones": "CINCO PAGARES EN ORIGINAL  Y COPIA\nUN TRASLADO ,EXPEDIENTE MIGRADO CUYO ORIGEN ES EL EXPEDIENTE 717/2022 DEL JUZGADO CIVIL DEL DISTRITO JUDICIAL DE ZUMPANGO",
+            "cveEstatus": 62,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 1075,
+            "cveTipoAmparo": null,
+            "fechaTermino": "0000-00-00",
+            "fechaSuspencion": "0000-00-00",
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": "",
+            "numeroOrigen": "",
+            "numeroOficio": "",
+            "fechaActualizacion": "2022-10-28T00:08:43.000000Z",
+            "descCarpetaJudicial": " PRINCIPAL NUEVO -31570/2023",
+            "fojas": 5,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "EL PAGO DE LA CANTIDAD DE $ 45,000.00 PESOS",
+            "fechaDevolucion": "0000-00-00 00:00:00",
+            "numOficioEnvio": "",
+            "cveOficialia": 186,
+            "presentaObj": "",
+            "numPromIni": 0,
+            "aniPromIni": "",
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 738,
+                "DesJuz": "JUZGADO MIXTO  DEL DISTRITO JUDICIAL DE ZUMPANGO",
+                "desCorta": "Mixto de Zumpango"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 29,
+            "descModalidad": "MERCANTIL"
+        },
+        "juicio": {
+            "cveLiti": 301,
+            "descLiti": "EJECUTIVO MERCANTIL"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 10411624,
+                    "nombre": "ROCIO",
+                    "paterno": "SANDOVAL",
+                    "materno": "ARAGON",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-06-14T17:50:24.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-06-14T17:50:24.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ROCIO SANDOVAL ARAGON",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 10411625,
+                    "nombre": "MARIANA",
+                    "paterno": "ROJAS",
+                    "materno": "ORTIZ",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-06-14T17:50:24.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-06-14T17:50:24.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "MARIANA ROJAS ORTIZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

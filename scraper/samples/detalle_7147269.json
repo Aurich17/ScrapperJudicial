@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:37:57",
-    "request-id": "79174653-e847-43ef-b1f6-f870aed640d1",
+    "datetime": "15/05/2026 08:57:56",
+    "request-id": "09c82e2d-de3f-4ca0-be09-4443db21fca2",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 7147269,
+            "numero": 1972,
+            "anio": "2025",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10069,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-09-10T19:21:23.000000Z",
+            "fechaRadicacion": "2025-09-10 13:21:23",
+            "cveUsuario": 7792,
+            "observaciones": "CONTRATO DE  CESIÓN DE DERECHOS EN DOS FOJAS\nVOLANTE UNIVERSAL DE IFREM\nSOLICITUD DE IFRM\nCERTIFICADO DE IFREM\nONCE RECIBO SDE TELEFONO DOS TRASLADOS",
+            "cveEstatus": 2,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 961,
+            "cveTipoAmparo": null,
+            "fechaTermino": "2026-03-06",
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 6,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "DECLARACION DE PROPIETARIO",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10069,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10069,
+                "DesJuz": "JUZGADO TERCERO CIVIL DEL DISTRITO JUDICIAL DE OTUMBA CON RESIDENCIA EN TEOTIHUACAN",
+                "desCorta": "1o Civ de Teotihuacán"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 54,
+            "descModalidad": "PROCEDIMIENTO ESPECIAL"
+        },
+        "juicio": {
+            "cveLiti": 678,
+            "descLiti": "USUCAPIÓN SUMARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 13959122,
+                    "nombre": "DORIS GUADALUPE",
+                    "paterno": "PEREZ",
+                    "materno": "HERNANDEZ",
+                    "nombreBuscar": "DORIS GUADALUPE PEREZ HERNANDEZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-09-10T18:24:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-09-10T18:24:05.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "DORIS GUADALUPE PEREZ HERNANDEZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 13959123,
+                    "nombre": "JOSE ANTOIO",
+                    "paterno": "PEREZ",
+                    "materno": "JIMENEZ",
+                    "nombreBuscar": "JOSE ANTOIO PEREZ JIMENEZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-09-10T18:24:06.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-09-10T18:24:06.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "JOSE ANTOIO PEREZ JIMENEZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 13959124,
+                    "nombre": "DOROTEA",
+                    "paterno": "HERNANDEZ",
+                    "materno": "LAGOS",
+                    "nombreBuscar": "DOROTEA HERNANDEZ LAGOS",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-09-10T18:24:06.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-09-10T18:24:06.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "DOROTEA HERNANDEZ LAGOS",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

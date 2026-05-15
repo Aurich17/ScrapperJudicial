@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:37:56",
-    "request-id": "5637d863-2be2-4fa3-9f3a-aa7323b9ec18",
+    "datetime": "15/05/2026 08:44:08",
+    "request-id": "eab571d4-75cd-476f-b4d6-87b38659cd61",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 1195684,
+            "numero": 1009,
+            "anio": "2014",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 954,
+            "cveMateria": 1,
+            "fechaRegistro": "2016-03-20T15:19:30.000000Z",
+            "fechaRadicacion": "2014-09-08 14:13:51",
+            "cveUsuario": 1,
+            "observaciones": "1 CONTRATO DE CESION DE DERECHOS DE CREDITO DE FECHA 9/04/05\r\nEN CUATRO FOJAS CON FIRMAS AUTOGRAFAS\r\n1 TICKET DE SUCURSALES\r\n1 VOLANTE UNIVERSAL\r\n1 JUEGO DE COPIAS CERTIFICADAS EN 25 FOJAS\r\n1 JUEGO DE COPIAS CERTIFICADAS DEL EXP 244/09  EN DOS FOJAS CON CARATULA\r\n1 ACTA DE MATRIMONIO EN COPIA CERTIFICADA EN MAL ESTADO DE CONSERVACION\r\n1 ACTA DE DEFUNCION CERTIFICADA\r\n1 ACLARACION DE TRANSACCIONES EN TRES FOJAS\r\n1 ESTADO DE CUENTA EN DOS FOJAS EN IMPRESION\r\n11 HOJAS DE  INFORMACION FINANCIERA EN COPIA SIMPLE\r\n15 COMPROBANTES DE LIQUIDACION DE PAGO ORIGINALES\r\n72 RECIBOS VARIOS EN FRACCION ORIGINALES\r\n10 RECIBOS DE DINERO EN IMPRESION\r\n2 TRASLADOS \r\n",
+            "cveEstatus": 62,
+            "cveFase": 8,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 665,
+            "cveTipoAmparo": 3,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2021-08-12T23:12:43.000000Z",
+            "descCarpetaJudicial": "",
+            "fojas": 28,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": null,
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 0,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 954,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE TEXCOCO",
+                "desCorta": "1 Civ y Ext Dom Texcoco"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 14,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 240,
+            "descLiti": "RESCISION DE CONTRATO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 2688311,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "LUIS ANTONIO ROSALES HERNANDEZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2016-03-20T15:19:30.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2016-03-20T15:19:30.000000Z",
+                    "cveTipoPersona": 3,
+                    "nombrePersonaMoral": "LUIS ANTONIO ROSALES HERNANDEZ",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "LUIS ANTONIO ROSALES HERNANDEZ",
+                    "tipoPersona": "MIGRACION",
+                    "genero": "NO IDENTIFICADO"
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 2688312,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "ANTONIO RUBEN CARDENAS GLORIA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2016-03-20T15:19:30.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2016-03-20T15:19:30.000000Z",
+                    "cveTipoPersona": 3,
+                    "nombrePersonaMoral": "ANTONIO RUBEN CARDENAS GLORIA",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ANTONIO RUBEN CARDENAS GLORIA",
+                    "tipoPersona": "MIGRACION",
+                    "genero": "NO IDENTIFICADO"
+                },
+                {
+                    "idParte": 2688313,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "Y OTRA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2016-03-20T15:19:31.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2016-03-20T15:19:31.000000Z",
+                    "cveTipoPersona": 3,
+                    "nombrePersonaMoral": "Y OTRA",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "Y OTRA",
+                    "tipoPersona": "MIGRACION",
+                    "genero": "NO IDENTIFICADO"
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:38:01",
-    "request-id": "07dabf61-e2c2-4558-b294-805699d8f64f",
+    "datetime": "15/05/2026 09:03:24",
+    "request-id": "e822fa3a-d054-4838-879f-a6c69312331b",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 4806450,
+            "numero": 948,
+            "anio": "2022",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 666,
+            "cveMateria": 1,
+            "fechaRegistro": "2022-03-08T16:33:27.000000Z",
+            "fechaRadicacion": "2022-03-08 00:00:00",
+            "cveUsuario": 15629,
+            "observaciones": "DOS INTERROGATORIOS CON TRASLADO, UN CERTIFICADO DE INSCRIPCIÓN  CON VOLANTE UNIVERSAL Y TIKET DE PAGO, SOLICITUD DE CERTIFICADO,CON VOLANTE UNIVERSAL,  CONTRATO DE DONACIÓN EN CUATRO  FOJAS CON COPIA SIMPLE,  DOS CROQUIS, UNA CONSTANCIA DE UBICACIÓN, CERTIFICADO DE INSCRIPCIÓN, UN ESCRITO CON FIRMA AUTÓGRAFA,  UN CUESTIONARIO CON COPIA SIMPLE, IMPRESIÓN  DE  CÉDULA  PROFESIONAL DE PERITO, AUTORIZACIÓN DE PERITO, COPIAS CERTIFICADAS  DEL IFREM,  SIETE  RECIBOS DE PAGO, DOS FACTURAS, CINCO RECIBOS DE PAGO,  DOS COPIAS SIMPLES DE CREDENCIAL PARA VOTAR, COPIA SIMPLE DE CERTIFICADO DE NACIMIENTO, TRES COPIAS CERTIFICADAS DOS DE NACIMIENTO Y UNA DE MATRIMONIO, CONSTANCIA DE MATRIMONIO ECLESIÁSTICO, CUATRO COPIAS SIMPLES DE IDENTIFICACIONES, UN SOBRE CERRADO,  Y UN  TRASLADO",
+            "cveEstatus": 62,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 580,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2023-03-06T20:54:22.000000Z",
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 21,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "LA DECLARACIÓN DE PROPIETARIO",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 666,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 666,
+                "DesJuz": "JUZGADO MIXTO DEL DISTRITO JUDICIAL CHALCO CON RESIDENCIA EN VALLE DE CHALCO SOLIDARIDAD",
+                "desCorta": "Mix de Chalco (Valle de Chalco Solidaridad)"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 14,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 176,
+            "descLiti": "USUCAPION"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 10087130,
+                    "nombre": "MARIADELCARMEN",
+                    "paterno": "CUANENEMI",
+                    "materno": "GREGORIO",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-03-08T16:33:26.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-08T16:33:26.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "MARIADELCARMEN CUANENEMI GREGORIO",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 10087131,
+                    "nombre": "DELFINO",
+                    "paterno": "VILLANUEVA",
+                    "materno": "CASTAñEDA",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-03-08T16:33:26.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-08T16:33:26.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "DELFINO VILLANUEVA CASTAñEDA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 10087132,
+                    "nombre": "TEODORO",
+                    "paterno": "CUANENEMI",
+                    "materno": "PEñA",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-03-08T16:33:26.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-08T16:33:26.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "TEODORO CUANENEMI PEñA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

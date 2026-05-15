@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:38:01",
-    "request-id": "ceb1abb8-96e1-40ae-a990-513b68ab2aa5",
+    "datetime": "15/05/2026 09:03:52",
+    "request-id": "0c13dabe-147f-4a0d-959c-68e8c80621bd",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 6599183,
+            "numero": 136,
+            "anio": "2025",
+            "cveTipoNumero": 10,
+            "nvaInstancia": 3,
+            "cveAdscripcion": 364,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-03-27T16:42:37.000000Z",
+            "fechaRadicacion": "2025-03-27 00:00:00",
+            "cveUsuario": 1143,
+            "observaciones": "Sin síntesis",
+            "cveEstatus": 1,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 138,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 10099,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2026-05-14T00:15:28.000000Z",
+            "descCarpetaJudicial": "TOCA",
+            "fojas": 1,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "Sin síntesis",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 0,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 10,
+                "descTipoNumero": "TOCA",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 364,
+                "DesJuz": "PRIMERA SALA COLEGIADA CIVIL DE TLALNEPANTLA",
+                "desCorta": "1 Sala Col Civ Tlalnepantla"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 52,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 590,
+            "descLiti": "PLENARIA DE POSESIÓN"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 13469277,
+                    "nombre": "TORT WILSON",
+                    "paterno": "LOPEZ",
+                    "materno": "BERRIOZABAL",
+                    "nombreBuscar": "TORT WILSON LOPEZ BERRIOZABAL",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2025-03-27T15:42:19.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-03-27T15:42:19.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "TORT WILSON LOPEZ BERRIOZABAL",
+                    "tipoPersona": "FISICA",
+                    "genero": "NO IDENTIFICADO"
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 13469278,
+                    "nombre": "ISRAEL",
+                    "paterno": "LOPEZ",
+                    "materno": "BERRIOZABAL",
+                    "nombreBuscar": "ISRAEL LOPEZ BERRIOZABAL",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2025-03-27T15:42:19.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-03-27T15:42:19.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ISRAEL LOPEZ BERRIOZABAL",
+                    "tipoPersona": "FISICA",
+                    "genero": "NO IDENTIFICADO"
+                },
+                {
+                    "idParte": 13469279,
+                    "nombre": "VIRGINIA",
+                    "paterno": "AVILA",
+                    "materno": "DELGADO",
+                    "nombreBuscar": "VIRGINIA AVILA DELGADO",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 3,
+                    "activo": "S",
+                    "fechaRegistro": "2025-03-27T15:42:19.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-03-27T15:42:19.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "VIRGINIA AVILA DELGADO",
+                    "tipoPersona": "FISICA",
+                    "genero": "NO IDENTIFICADO"
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

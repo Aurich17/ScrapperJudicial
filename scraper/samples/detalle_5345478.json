@@ -1,8 +1,121 @@
 {
-    "datetime": "13/05/2026 13:38:02",
-    "request-id": "1a50b1c5-b006-47a5-bd1c-fabb38c923a6",
+    "datetime": "15/05/2026 09:06:19",
+    "request-id": "abe136a8-f1ef-4835-ad38-d41fea722326",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 5345478,
+            "numero": 11261,
+            "anio": "2023",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 49,
+            "cveMateria": 1,
+            "fechaRegistro": "2023-01-24T07:49:19.000000Z",
+            "fechaRadicacion": "2023-01-24 01:49:19",
+            "cveUsuario": 8575,
+            "observaciones": "1 ACTA DE NACIMIENTO EN COPIA CERTIIFCADA\n46 TICKETS DIVERSOS \n3 MANUSCRITOS \n2 IMPRESIONES FOTOGRAFICAS \n1 TRASLADO.  EXPEDIENTE MIGRADO CUYO ORIGEN ES EL EXPEDIENTE 157/2022 DEL JUZGADO SEXTO CIVIL DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+            "cveEstatus": 1,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 575,
+            "cveTipoAmparo": 2,
+            "fechaTermino": "2022-02-09",
+            "fechaSuspencion": "0000-00-00",
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": "",
+            "numeroOrigen": "",
+            "numeroOficio": "",
+            "fechaActualizacion": "2014-07-08T20:00:00.000000Z",
+            "descCarpetaJudicial": " PRINCIPAL NUEVO ",
+            "fojas": 7,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "VIOLENCIA FAMILIAR ",
+            "fechaDevolucion": null,
+            "numOficioEnvio": "",
+            "cveOficialia": 10144,
+            "presentaObj": "",
+            "numPromIni": null,
+            "aniPromIni": "",
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 49,
+                "DesJuz": "JUZGADO MIXTO DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+                "desCorta": "Mixto de Chalco (Ixtapaluca)"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 22,
+            "descModalidad": "VIOLENCIA INTRAFAMILIAR"
+        },
+        "juicio": {
+            "cveLiti": 265,
+            "descLiti": "CONTROVERSIA DE VIOLENCIA FAMILIAR"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 9978158,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "",
+                    "edad": 35,
+                    "fechaNacimiento": "1987-01-17",
+                    "CURP": "",
+                    "cveGenero": 1,
+                    "activo": "S",
+                    "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-24T23:54:44.000000Z",
+                    "cveTipoPersona": 2,
+                    "nombrePersonaMoral": "DAVID IVAN PEÑA RANGEL",
+                    "numFolioConvivencia": 39725,
+                    "nombreCompleto": "DAVID IVAN PEÑA RANGEL",
+                    "tipoPersona": "MORAL",
+                    "genero": "HOMBRE"
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 9978159,
+                    "nombre": "",
+                    "paterno": "",
+                    "materno": "",
+                    "nombreBuscar": "",
+                    "edad": 28,
+                    "fechaNacimiento": "1994-09-07",
+                    "CURP": "",
+                    "cveGenero": 2,
+                    "activo": "S",
+                    "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-03-24T23:54:44.000000Z",
+                    "cveTipoPersona": 2,
+                    "nombrePersonaMoral": "SANTAN LUCIA SOLIS GARCIA",
+                    "numFolioConvivencia": 39726,
+                    "nombreCompleto": "SANTAN LUCIA SOLIS GARCIA",
+                    "tipoPersona": "MORAL",
+                    "genero": "MUJER"
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

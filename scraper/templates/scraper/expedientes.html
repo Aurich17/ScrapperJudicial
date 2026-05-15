@@ -1,121 +1,122 @@
-{% extends 'scraper/base.html' %}
-
-{% block content %}
+{% extends 'scraper/base.html' %} {% block content %}
 
 <div class="d-flex justify-content-between align-items-center mb-4">
+  <h1 class="fw-bold">Expedientes</h1>
 
-    <h1 class="fw-bold">
-        Expedientes
-    </h1>
-
-    <a
-        href="{% url 'sincronizar_expedientes' %}"
-        class="btn btn-primary"
-    >
-        Sincronizar Expedientes
-    </a>
-
+  <a href="{% url 'sincronizar_expedientes' %}" class="btn btn-primary">
+    Sincronizar Expedientes
+  </a>
 </div>
 
+<form method="get" class="mb-4">
+  <div class="row g-2 align-items-end">
+    <div class="col-12 col-md-6">
+      <label class="form-label mb-1"> Materia </label>
+
+      <select name="materia" class="form-select">
+        <option value="">Todas</option>
+
+        {% for m in materias %}
+
+        <option
+          value="{{ m.id }}"
+          {%
+          if
+          materia_seleccionada=""
+          ="m.id"
+          %}selected{%
+          endif
+          %}
+        >
+          {{ m.label }}
+        </option>
+
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="col-12 col-md-3">
+      <button type="submit" class="btn btn-outline-primary w-100">
+        Filtrar
+      </button>
+    </div>
+
+    <div class="col-12 col-md-3">
+      <a
+        href="{% url 'lista_expedientes' %}"
+        class="btn btn-outline-secondary w-100"
+      >
+        Limpiar
+      </a>
+    </div>
+  </div>
+</form>
 
 <div class="row">
+  {% for expediente in expedientes %}
 
-{% for expediente in expedientes %}
+  <div class="col-md-6 col-lg-4 mb-4">
+    <div class="card shadow-sm border-0 h-100">
+      <div class="card-body d-flex flex-column">
+        <div class="d-flex justify-content-between align-items-start mb-3">
+          <h4 class="fw-bold mb-0">
+            {{ expediente.numero }}/{{ expediente.anio }}
+          </h4>
 
-    <div class="col-md-6 col-lg-4 mb-4">
+          <div class="d-flex gap-2 flex-wrap justify-content-end">
+            <span class="badge bg-secondary">
+              {{ expediente.materia_etiqueta }}
+            </span>
 
-        <div class="card shadow-sm border-0 h-100">
-
-            <div class="card-body d-flex flex-column">
-
-                <div class="d-flex justify-content-between align-items-start mb-3">
-
-                    <h4 class="fw-bold mb-0">
-
-                        {{ expediente.numero }}/{{ expediente.anio }}
-
-                    </h4>
-
-                    <span class="badge bg-primary">
-
-                        {{ expediente.documentos.count }} PDFs
-
-                    </span>
-
-                </div>
-
-
-                <div class="mb-3">
-
-                    <p class="mb-2">
-
-                        <strong>Actor:</strong>
-
-                        {{ expediente.actor|default:"Sin información" }}
-
-                    </p>
-
-                    <p class="mb-2">
-
-                        <strong>Demandado:</strong>
-
-                        {{ expediente.demandado|default:"Sin información" }}
-
-                    </p>
-
-                    <p class="mb-2">
-
-                        <strong>Juicio:</strong>
-
-                        {{ expediente.juicio|default:"Sin información" }}
-
-                    </p>
-
-                </div>
-
-
-                <div class="mb-4">
-
-                    <small class="text-muted">
-
-                        {{ expediente.juzgado }}
-
-                    </small>
-
-                </div>
-
-
-                <div class="mt-auto">
-
-                    <a
-                        href="{% url 'detalle_expediente' expediente.id %}"
-                        class="btn btn-dark w-100"
-                    >
-                        Ver Expediente
-                    </a>
-
-                </div>
-
-            </div>
-
+            <span class="badge bg-primary">
+              {{ expediente.documentos.count }} PDFs
+            </span>
+          </div>
         </div>
 
-    </div>
+        <div class="mb-3">
+          <p class="mb-2">
+            <strong>Actor:</strong>
 
-{% empty %}
+            {{ expediente.actor|default:"Sin información" }}
+          </p>
 
-    <div class="col-12">
+          <p class="mb-2">
+            <strong>Demandado:</strong>
 
-        <div class="alert alert-warning">
+            {{ expediente.demandado|default:"Sin información" }}
+          </p>
 
-            No hay expedientes registrados.
+          <p class="mb-2">
+            <strong>Juicio:</strong>
 
+            {{ expediente.juicio|default:"Sin información" }}
+          </p>
         </div>
 
+        <div class="mb-4">
+          <small class="text-muted"> {{ expediente.juzgado }} </small>
+        </div>
+
+        <div class="mt-auto">
+          <a
+            href="{% url 'detalle_expediente' expediente.id %}"
+            class="btn btn-dark w-100"
+          >
+            Ver Expediente
+          </a>
+        </div>
+      </div>
     </div>
+  </div>
 
-{% endfor %}
+  {% empty %}
 
+  <div class="col-12">
+    <div class="alert alert-warning">No hay expedientes registrados.</div>
+  </div>
+
+  {% endfor %}
 </div>
 
 {% endblock %}

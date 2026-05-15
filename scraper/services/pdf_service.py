@@ -6,7 +6,13 @@ from pypdf import PdfReader
 
 from urllib.parse import quote
 
-from scraper.utils.constants import API_URL
+from scraper.utils.constants import (
+    API_URL
+)
+
+from scraper.services.auth_service import (
+    request_get
+)
 
 
 DOWNLOADS_PATH = "downloads"
@@ -49,108 +55,71 @@ def limpiar_nombre_archivo(nombre):
 
 
 def obtener_imagenes_actuacion(
-    page,
     id_actuacion
 ):
 
     url = (
         f"{API_URL}/expedientes-autorizados/imagenes"
-        f"?idActuacion={id_actuacion}"
     )
 
-    data = page.evaluate(
-        """
-        async (url) => {
-
-            const token = localStorage.getItem("token");
-
-            const response = await fetch(url, {
-
-                method: "GET",
-
-                headers: {
-                    "Authorization": `Bearer ${token}`,
-                    "Content-Type": "application/json"
-                }
-            });
-
-            return await response.json();
-        }
-        """,
-        url
+    response = request_get(
+        url,
+        params={
+            "idActuacion": id_actuacion
+        },
+        timeout=120
     )
 
-    return data
+    return response.json()
 
 
 def obtener_imagenes_carpeta(
-    page,
     id_carpeta_judicial
 ):
 
     url = (
         f"{API_URL}/expedientes-autorizados/imagenes"
-        f"?idCarpetaJudicial={id_carpeta_judicial}"
     )
 
-    data = page.evaluate(
-        """
-        async (url) => {
-
-            const token = localStorage.getItem("token");
-
-            const response = await fetch(url, {
-
-                method: "GET",
-
-                headers: {
-                    "Authorization": `Bearer ${token}`,
-                    "Content-Type": "application/json"
-                }
-            });
-
-            return await response.json();
-        }
-        """,
-        url
+    response = request_get(
+        url,
+        params={
+            "idCarpetaJudicial": id_carpeta_judicial
+        },
+        timeout=120
     )
 
-    return data
+    return response.json()
 
 
 def descargar_pagina_pdf(
-    page,
     ruta,
     ruta_destino
 ):
 
-    token = page.evaluate(
-        "localStorage.getItem('token')"
-    )
-
     url = (
         f"{API_URL}/expedientes-autorizados/get-imagen"
-        f"?ruta={quote(ruta)}"
     )
 
-    headers = {
-        "Authorization": f"Bearer {token}"
-    }
-
-    response = requests.get(
+    response = request_get(
         url,
-        headers=headers,
-        timeout=120
+        params={
+            "ruta": quote(ruta)
+        },
+        timeout=120,
+        stream=True
     )
-
-    response.raise_for_status()
 
     with open(
         ruta_destino,
         "wb"
     ) as f:
 
-        f.write(response.content)
+        for chunk in response.iter_content(
+            chunk_size=1024 * 256
+        ):
+            if chunk:
+                f.write(chunk)
 
 
 def fusionar_pdfs(
@@ -181,7 +150,6 @@ def fusionar_pdfs(
 
 
 def descargar_pdf_principal(
-    page,
     nodo
 ):
 
@@ -189,7 +157,6 @@ def descargar_pdf_principal(
 
     imagenes_json = (
         obtener_imagenes_carpeta(
-            page,
             expediente.id_carpeta_judicial
         )
     )
@@ -256,7 +223,6 @@ def descargar_pdf_principal(
     )
 
     descargar_pagina_pdf(
-        page,
         ruta_pdf,
         ruta_final
     )
@@ -272,24 +238,14 @@ def descargar_pdf_principal(
 
 
 def descargar_pdf_actuacion(
-    page,
     nodo
 ):
-
-    # ======================
-    # PDF PRINCIPAL
-    # ======================
 
     if nodo.cve_tipo_actuacion is None:
 
         return descargar_pdf_principal(
-            page,
             nodo
         )
-
-    # ======================
-    # ACTUACIONES
-    # ======================
 
     referencia_id = (
         nodo.referencia_id
@@ -297,7 +253,6 @@ def descargar_pdf_actuacion(
 
     imagenes_json = (
         obtener_imagenes_actuacion(
-            page,
             referencia_id
         )
     )
@@ -360,7 +315,6 @@ def descargar_pdf_actuacion(
             )
 
             descargar_pagina_pdf(
-                page,
                 ruta,
                 temp_pdf
             )

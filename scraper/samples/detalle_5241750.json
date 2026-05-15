@@ -1,8 +1,124 @@
 {
-    "datetime": "13/05/2026 13:37:56",
-    "request-id": "eca4690b-bf78-444c-9020-a3e1d4c750df",
+    "datetime": "15/05/2026 08:57:47",
+    "request-id": "694fc90f-8cc9-4188-a2c8-345501a56489",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 5241750,
+            "numero": 1173,
+            "anio": "2022",
+            "cveTipoNumero": 3,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10069,
+            "cveMateria": 1,
+            "fechaRegistro": "2022-11-07T19:49:57.000000Z",
+            "fechaRadicacion": "2022-11-07 13:49:57",
+            "cveUsuario": 12311,
+            "observaciones": "OFICIO, EXHORTO, DOS TRASLADOS ",
+            "cveEstatus": 16,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 721,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 9,
+            "nomAdscripcionOrigen": "JUZGADO SEGUNDO DE LO FAMILIAR DE LA CIUDAD DE MEXICO",
+            "numeroOrigen": "129/2004",
+            "numeroOficio": "5321/2022",
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "EXHORTO",
+            "fojas": 1,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": null,
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10069,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 3,
+                "descTipoNumero": "EXHORTO",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10069,
+                "DesJuz": "JUZGADO TERCERO CIVIL DEL DISTRITO JUDICIAL DE OTUMBA CON RESIDENCIA EN TEOTIHUACAN",
+                "desCorta": "1o Civ de Teotihuacán"
+            },
+            "gestion_estados": {
+                "cveEstado": 9,
+                "desEstado": "CIUDAD DE MEXICO"
+            }
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 14,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 274,
+            "descLiti": "DIVORCIO NECESARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 10867399,
+                    "nombre": "MARIA GABRIELA",
+                    "paterno": "ALBA ",
+                    "materno": "ACOSTA",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-11-07T19:50:00.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-11-07T19:50:00.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "MARIA GABRIELA ALBA  ACOSTA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 10867400,
+                    "nombre": "OMAR",
+                    "paterno": "JORGE",
+                    "materno": "AYALA",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2022-11-07T19:50:00.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2022-11-07T19:50:00.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "OMAR JORGE AYALA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }
