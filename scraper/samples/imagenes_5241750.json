@@ -1,0 +1,135 @@
+{
+    "datetime": "12/05/2026 13:03:35",
+    "request-id": "d6956ec2-ed90-4f7b-a071-0758720c512a",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 242994074,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994074.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994074.pdf"
+        },
+        {
+            "idImagen": 242994075,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994075.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994075.pdf"
+        },
+        {
+            "idImagen": 242994076,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994076.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994076.pdf"
+        },
+        {
+            "idImagen": 242994077,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994077.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994077.pdf"
+        },
+        {
+            "idImagen": 242994078,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994078.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994078.pdf"
+        },
+        {
+            "idImagen": 242994079,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994079.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994079.pdf"
+        },
+        {
+            "idImagen": 242994080,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994080.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994080.pdf"
+        },
+        {
+            "idImagen": 242994081,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994081.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994081.pdf"
+        },
+        {
+            "idImagen": 242994082,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994082.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994082.pdf"
+        },
+        {
+            "idImagen": 242994084,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994084.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994084.pdf"
+        },
+        {
+            "idImagen": 242994085,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994085.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994085.pdf"
+        },
+        {
+            "idImagen": 242994086,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994086.pdf",
+            "posicion": 12,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994086.pdf"
+        },
+        {
+            "idImagen": 242994087,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994087.pdf",
+            "posicion": 13,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994087.pdf"
+        },
+        {
+            "idImagen": 242994088,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994088.pdf",
+            "posicion": 14,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994088.pdf"
+        },
+        {
+            "idImagen": 242994089,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994089.pdf",
+            "posicion": 15,
+            "fechaRegistro": "2022-11-07 13:54:12",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994089.pdf"
+        },
+        {
+            "idImagen": 242994091,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994091.pdf",
+            "posicion": 16,
+            "fechaRegistro": "2022-11-07 13:54:13",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994091.pdf"
+        },
+        {
+            "idImagen": 242994092,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994092.pdf",
+            "posicion": 17,
+            "fechaRegistro": "2022-11-07 13:54:13",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994092.pdf"
+        },
+        {
+            "idImagen": 242994093,
+            "ruta": "imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994093.pdf",
+            "posicion": 18,
+            "fechaRegistro": "2022-11-07 13:54:13",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/10069/2022/exhorto/1173/EXHO242994093.pdf"
+        }
+    ]
+}

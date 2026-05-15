@@ -1,0 +1,121 @@
+{
+    "datetime": "13/05/2026 13:31:16",
+    "request-id": "ead68ead-de99-41b5-b4ee-7cab4c79a292",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 7183969,
+            "numero": 2345,
+            "anio": "2025",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10218,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-10-08T18:19:33.000000Z",
+            "fechaRadicacion": "2025-10-08 12:19:33",
+            "cveUsuario": 8131,
+            "observaciones": "un interrogatorio \nun contrato de cesion de derechos 10 de mayo 2005 con firmas autografas \nun certificado de inscripcion \nuna solicitud de certificado de inscripicon en copia simple sellado \nun volante universal con comprobante de pago \nuna credencial para votar en copia simple \nun instrumento numero nueve mil ciento noventa y tres \n18 recibos de cfe \nun recibo de cfe impreso. \nun traslado.",
+            "cveEstatus": 2,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 607,
+            "cveTipoAmparo": null,
+            "fechaTermino": "2025-10-16",
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 5,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "demanda inicial \ncero papel \nsumario de usucapion",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10218,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10218,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+                "desCorta": "1 Civ y Ext Dom Ecatepec"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 54,
+            "descModalidad": "PROCEDIMIENTO ESPECIAL"
+        },
+        "juicio": {
+            "cveLiti": 678,
+            "descLiti": "USUCAPIÓN SUMARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 14050537,
+                    "nombre": "MANUEL DE JESUS",
+                    "paterno": "PEREZ",
+                    "materno": "HERNANDEZ",
+                    "nombreBuscar": "MANUEL DE JESUS PEREZ HERNANDEZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-10-08T17:19:28.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-10-08T17:19:28.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "MANUEL DE JESUS PEREZ HERNANDEZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 14050538,
+                    "nombre": "CECILIO",
+                    "paterno": "HERNANDEZ",
+                    "materno": "CANDELARIA",
+                    "nombreBuscar": "CECILIO HERNANDEZ CANDELARIA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-10-08T17:19:28.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-10-08T17:19:28.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "CECILIO HERNANDEZ CANDELARIA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
+}

@@ -1,0 +1,702 @@
+{
+    "datetime": "12/05/2026 12:58:51",
+    "request-id": "8bf8c23e-7293-4f71-99b4-4cf25ddfc035",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 33685605,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685605.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2016-03-20 09:19:31",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685605.pdf"
+        },
+        {
+            "idImagen": 33685606,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685606.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2016-03-20 09:19:31",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685606.pdf"
+        },
+        {
+            "idImagen": 33685607,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685607.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2016-03-20 09:19:31",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685607.pdf"
+        },
+        {
+            "idImagen": 33685608,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685608.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2016-03-20 09:19:32",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685608.pdf"
+        },
+        {
+            "idImagen": 33685609,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685609.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2016-03-20 09:19:32",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685609.pdf"
+        },
+        {
+            "idImagen": 33685610,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685610.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2016-03-20 09:19:32",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685610.pdf"
+        },
+        {
+            "idImagen": 33685611,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685611.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2016-03-20 09:19:32",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685611.pdf"
+        },
+        {
+            "idImagen": 33685612,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685612.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2016-03-20 09:19:33",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685612.pdf"
+        },
+        {
+            "idImagen": 33685613,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685613.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2016-03-20 09:19:33",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685613.pdf"
+        },
+        {
+            "idImagen": 33685614,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685614.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2016-03-20 09:19:33",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685614.pdf"
+        },
+        {
+            "idImagen": 33685615,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685615.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2016-03-20 09:19:33",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685615.pdf"
+        },
+        {
+            "idImagen": 33685616,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685616.pdf",
+            "posicion": 12,
+            "fechaRegistro": "2016-03-20 09:19:33",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685616.pdf"
+        },
+        {
+            "idImagen": 33685617,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685617.pdf",
+            "posicion": 13,
+            "fechaRegistro": "2016-03-20 09:19:34",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685617.pdf"
+        },
+        {
+            "idImagen": 33685618,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685618.pdf",
+            "posicion": 14,
+            "fechaRegistro": "2016-03-20 09:19:34",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685618.pdf"
+        },
+        {
+            "idImagen": 33685619,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685619.pdf",
+            "posicion": 15,
+            "fechaRegistro": "2016-03-20 09:19:34",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685619.pdf"
+        },
+        {
+            "idImagen": 33685620,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685620.pdf",
+            "posicion": 16,
+            "fechaRegistro": "2016-03-20 09:19:34",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685620.pdf"
+        },
+        {
+            "idImagen": 33685621,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685621.pdf",
+            "posicion": 17,
+            "fechaRegistro": "2016-03-20 09:19:35",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685621.pdf"
+        },
+        {
+            "idImagen": 33685622,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685622.pdf",
+            "posicion": 18,
+            "fechaRegistro": "2016-03-20 09:19:35",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685622.pdf"
+        },
+        {
+            "idImagen": 33685623,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685623.pdf",
+            "posicion": 19,
+            "fechaRegistro": "2016-03-20 09:19:35",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685623.pdf"
+        },
+        {
+            "idImagen": 33685624,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685624.pdf",
+            "posicion": 20,
+            "fechaRegistro": "2016-03-20 09:19:35",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685624.pdf"
+        },
+        {
+            "idImagen": 33685625,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685625.pdf",
+            "posicion": 21,
+            "fechaRegistro": "2016-03-20 09:19:35",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685625.pdf"
+        },
+        {
+            "idImagen": 33685626,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685626.pdf",
+            "posicion": 22,
+            "fechaRegistro": "2016-03-20 09:19:36",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685626.pdf"
+        },
+        {
+            "idImagen": 33685627,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685627.pdf",
+            "posicion": 23,
+            "fechaRegistro": "2016-03-20 09:19:36",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685627.pdf"
+        },
+        {
+            "idImagen": 33685628,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685628.pdf",
+            "posicion": 24,
+            "fechaRegistro": "2016-03-20 09:19:36",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685628.pdf"
+        },
+        {
+            "idImagen": 33685629,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685629.pdf",
+            "posicion": 25,
+            "fechaRegistro": "2016-03-20 09:19:36",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685629.pdf"
+        },
+        {
+            "idImagen": 33685630,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685630.pdf",
+            "posicion": 26,
+            "fechaRegistro": "2016-03-20 09:19:37",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685630.pdf"
+        },
+        {
+            "idImagen": 33685631,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685631.pdf",
+            "posicion": 27,
+            "fechaRegistro": "2016-03-20 09:19:37",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685631.pdf"
+        },
+        {
+            "idImagen": 33685632,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685632.pdf",
+            "posicion": 28,
+            "fechaRegistro": "2016-03-20 09:19:37",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685632.pdf"
+        },
+        {
+            "idImagen": 33685633,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685633.pdf",
+            "posicion": 29,
+            "fechaRegistro": "2016-03-20 09:19:37",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685633.pdf"
+        },
+        {
+            "idImagen": 33685634,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685634.pdf",
+            "posicion": 30,
+            "fechaRegistro": "2016-03-20 09:19:37",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685634.pdf"
+        },
+        {
+            "idImagen": 33685635,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685635.pdf",
+            "posicion": 31,
+            "fechaRegistro": "2016-03-20 09:19:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685635.pdf"
+        },
+        {
+            "idImagen": 33685636,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685636.pdf",
+            "posicion": 32,
+            "fechaRegistro": "2016-03-20 09:19:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685636.pdf"
+        },
+        {
+            "idImagen": 33685637,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685637.pdf",
+            "posicion": 33,
+            "fechaRegistro": "2016-03-20 09:19:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685637.pdf"
+        },
+        {
+            "idImagen": 33685638,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685638.pdf",
+            "posicion": 34,
+            "fechaRegistro": "2016-03-20 09:19:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685638.pdf"
+        },
+        {
+            "idImagen": 33685639,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685639.pdf",
+            "posicion": 35,
+            "fechaRegistro": "2016-03-20 09:19:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685639.pdf"
+        },
+        {
+            "idImagen": 33685640,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685640.pdf",
+            "posicion": 36,
+            "fechaRegistro": "2016-03-20 09:19:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685640.pdf"
+        },
+        {
+            "idImagen": 33685641,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685641.pdf",
+            "posicion": 37,
+            "fechaRegistro": "2016-03-20 09:19:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685641.pdf"
+        },
+        {
+            "idImagen": 33685642,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685642.pdf",
+            "posicion": 38,
+            "fechaRegistro": "2016-03-20 09:19:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685642.pdf"
+        },
+        {
+            "idImagen": 33685643,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685643.pdf",
+            "posicion": 39,
+            "fechaRegistro": "2016-03-20 09:19:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685643.pdf"
+        },
+        {
+            "idImagen": 33685644,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685644.pdf",
+            "posicion": 40,
+            "fechaRegistro": "2016-03-20 09:19:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685644.pdf"
+        },
+        {
+            "idImagen": 33685645,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685645.pdf",
+            "posicion": 41,
+            "fechaRegistro": "2016-03-20 09:19:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685645.pdf"
+        },
+        {
+            "idImagen": 33685646,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685646.pdf",
+            "posicion": 42,
+            "fechaRegistro": "2016-03-20 09:19:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685646.pdf"
+        },
+        {
+            "idImagen": 33685647,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685647.pdf",
+            "posicion": 43,
+            "fechaRegistro": "2016-03-20 09:19:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685647.pdf"
+        },
+        {
+            "idImagen": 33685648,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685648.pdf",
+            "posicion": 44,
+            "fechaRegistro": "2016-03-20 09:19:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685648.pdf"
+        },
+        {
+            "idImagen": 33685649,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685649.pdf",
+            "posicion": 45,
+            "fechaRegistro": "2016-03-20 09:19:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685649.pdf"
+        },
+        {
+            "idImagen": 33685650,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685650.pdf",
+            "posicion": 46,
+            "fechaRegistro": "2016-03-20 09:19:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685650.pdf"
+        },
+        {
+            "idImagen": 33685651,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685651.pdf",
+            "posicion": 47,
+            "fechaRegistro": "2016-03-20 09:19:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685651.pdf"
+        },
+        {
+            "idImagen": 33685652,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685652.pdf",
+            "posicion": 48,
+            "fechaRegistro": "2016-03-20 09:19:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685652.pdf"
+        },
+        {
+            "idImagen": 33685653,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685653.pdf",
+            "posicion": 49,
+            "fechaRegistro": "2016-03-20 09:19:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685653.pdf"
+        },
+        {
+            "idImagen": 33685654,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685654.pdf",
+            "posicion": 50,
+            "fechaRegistro": "2016-03-20 09:19:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685654.pdf"
+        },
+        {
+            "idImagen": 33685655,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685655.pdf",
+            "posicion": 51,
+            "fechaRegistro": "2016-03-20 09:19:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685655.pdf"
+        },
+        {
+            "idImagen": 33685656,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685656.pdf",
+            "posicion": 52,
+            "fechaRegistro": "2016-03-20 09:19:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685656.pdf"
+        },
+        {
+            "idImagen": 33685657,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685657.pdf",
+            "posicion": 53,
+            "fechaRegistro": "2016-03-20 09:19:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685657.pdf"
+        },
+        {
+            "idImagen": 33685658,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685658.pdf",
+            "posicion": 54,
+            "fechaRegistro": "2016-03-20 09:19:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685658.pdf"
+        },
+        {
+            "idImagen": 33685659,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685659.pdf",
+            "posicion": 55,
+            "fechaRegistro": "2016-03-20 09:19:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685659.pdf"
+        },
+        {
+            "idImagen": 33685660,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685660.pdf",
+            "posicion": 56,
+            "fechaRegistro": "2016-03-20 09:19:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685660.pdf"
+        },
+        {
+            "idImagen": 33685661,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685661.pdf",
+            "posicion": 57,
+            "fechaRegistro": "2016-03-20 09:19:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685661.pdf"
+        },
+        {
+            "idImagen": 33685662,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685662.pdf",
+            "posicion": 58,
+            "fechaRegistro": "2016-03-20 09:19:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685662.pdf"
+        },
+        {
+            "idImagen": 33685663,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685663.pdf",
+            "posicion": 59,
+            "fechaRegistro": "2016-03-20 09:19:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685663.pdf"
+        },
+        {
+            "idImagen": 33685664,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685664.pdf",
+            "posicion": 60,
+            "fechaRegistro": "2016-03-20 09:19:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685664.pdf"
+        },
+        {
+            "idImagen": 33685665,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685665.pdf",
+            "posicion": 61,
+            "fechaRegistro": "2016-03-20 09:19:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685665.pdf"
+        },
+        {
+            "idImagen": 33685666,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685666.pdf",
+            "posicion": 62,
+            "fechaRegistro": "2016-03-20 09:19:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685666.pdf"
+        },
+        {
+            "idImagen": 33685667,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685667.pdf",
+            "posicion": 63,
+            "fechaRegistro": "2016-03-20 09:19:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685667.pdf"
+        },
+        {
+            "idImagen": 33685668,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685668.pdf",
+            "posicion": 64,
+            "fechaRegistro": "2016-03-20 09:19:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685668.pdf"
+        },
+        {
+            "idImagen": 33685669,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685669.pdf",
+            "posicion": 65,
+            "fechaRegistro": "2016-03-20 09:19:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685669.pdf"
+        },
+        {
+            "idImagen": 33685670,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685670.pdf",
+            "posicion": 66,
+            "fechaRegistro": "2016-03-20 09:19:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685670.pdf"
+        },
+        {
+            "idImagen": 33685671,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685671.pdf",
+            "posicion": 67,
+            "fechaRegistro": "2016-03-20 09:19:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685671.pdf"
+        },
+        {
+            "idImagen": 33685672,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685672.pdf",
+            "posicion": 68,
+            "fechaRegistro": "2016-03-20 09:19:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685672.pdf"
+        },
+        {
+            "idImagen": 33685673,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685673.pdf",
+            "posicion": 69,
+            "fechaRegistro": "2016-03-20 09:19:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685673.pdf"
+        },
+        {
+            "idImagen": 33685674,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685674.pdf",
+            "posicion": 70,
+            "fechaRegistro": "2016-03-20 09:19:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685674.pdf"
+        },
+        {
+            "idImagen": 33685675,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685675.pdf",
+            "posicion": 71,
+            "fechaRegistro": "2016-03-20 09:19:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685675.pdf"
+        },
+        {
+            "idImagen": 33685676,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685676.pdf",
+            "posicion": 72,
+            "fechaRegistro": "2016-03-20 09:19:47",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685676.pdf"
+        },
+        {
+            "idImagen": 33685677,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685677.pdf",
+            "posicion": 73,
+            "fechaRegistro": "2016-03-20 09:19:47",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685677.pdf"
+        },
+        {
+            "idImagen": 33685678,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685678.pdf",
+            "posicion": 74,
+            "fechaRegistro": "2016-03-20 09:19:47",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685678.pdf"
+        },
+        {
+            "idImagen": 33685679,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685679.pdf",
+            "posicion": 75,
+            "fechaRegistro": "2016-03-20 09:19:47",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685679.pdf"
+        },
+        {
+            "idImagen": 33685680,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685680.pdf",
+            "posicion": 76,
+            "fechaRegistro": "2016-03-20 09:19:48",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685680.pdf"
+        },
+        {
+            "idImagen": 33685681,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685681.pdf",
+            "posicion": 77,
+            "fechaRegistro": "2016-03-20 09:19:48",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685681.pdf"
+        },
+        {
+            "idImagen": 33685682,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685682.pdf",
+            "posicion": 78,
+            "fechaRegistro": "2016-03-20 09:19:48",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685682.pdf"
+        },
+        {
+            "idImagen": 33685683,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685683.pdf",
+            "posicion": 79,
+            "fechaRegistro": "2016-03-20 09:19:48",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685683.pdf"
+        },
+        {
+            "idImagen": 33685684,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685684.pdf",
+            "posicion": 80,
+            "fechaRegistro": "2016-03-20 09:19:48",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685684.pdf"
+        },
+        {
+            "idImagen": 33685685,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685685.pdf",
+            "posicion": 81,
+            "fechaRegistro": "2016-03-20 09:19:49",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685685.pdf"
+        },
+        {
+            "idImagen": 33685686,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685686.pdf",
+            "posicion": 82,
+            "fechaRegistro": "2016-03-20 09:19:49",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685686.pdf"
+        },
+        {
+            "idImagen": 33685687,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685687.pdf",
+            "posicion": 83,
+            "fechaRegistro": "2016-03-20 09:19:49",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685687.pdf"
+        },
+        {
+            "idImagen": 33685688,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685688.pdf",
+            "posicion": 84,
+            "fechaRegistro": "2016-03-20 09:19:49",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685688.pdf"
+        },
+        {
+            "idImagen": 33685689,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685689.pdf",
+            "posicion": 85,
+            "fechaRegistro": "2016-03-20 09:19:49",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685689.pdf"
+        },
+        {
+            "idImagen": 33685690,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685690.pdf",
+            "posicion": 86,
+            "fechaRegistro": "2016-03-20 09:19:50",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685690.pdf"
+        },
+        {
+            "idImagen": 33685691,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685691.pdf",
+            "posicion": 87,
+            "fechaRegistro": "2016-03-20 09:19:50",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685691.pdf"
+        },
+        {
+            "idImagen": 33685692,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685692.pdf",
+            "posicion": 88,
+            "fechaRegistro": "2016-03-20 09:19:50",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685692.pdf"
+        },
+        {
+            "idImagen": 33685693,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685693.pdf",
+            "posicion": 89,
+            "fechaRegistro": "2016-03-20 09:19:50",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685693.pdf"
+        },
+        {
+            "idImagen": 33685694,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685694.pdf",
+            "posicion": 90,
+            "fechaRegistro": "2016-03-20 09:19:51",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685694.pdf"
+        },
+        {
+            "idImagen": 33685695,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685695.pdf",
+            "posicion": 91,
+            "fechaRegistro": "2016-03-20 09:19:51",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685695.pdf"
+        },
+        {
+            "idImagen": 33685696,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685696.pdf",
+            "posicion": 92,
+            "fechaRegistro": "2016-03-20 09:19:51",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685696.pdf"
+        },
+        {
+            "idImagen": 33685697,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685697.pdf",
+            "posicion": 93,
+            "fechaRegistro": "2016-03-20 09:19:51",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685697.pdf"
+        },
+        {
+            "idImagen": 33685698,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685698.pdf",
+            "posicion": 94,
+            "fechaRegistro": "2016-03-20 09:19:51",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685698.pdf"
+        },
+        {
+            "idImagen": 33685699,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685699.pdf",
+            "posicion": 95,
+            "fechaRegistro": "2016-03-20 09:19:52",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685699.pdf"
+        },
+        {
+            "idImagen": 33685700,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685700.pdf",
+            "posicion": 96,
+            "fechaRegistro": "2016-03-20 09:19:52",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685700.pdf"
+        },
+        {
+            "idImagen": 33685701,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685701.pdf",
+            "posicion": 97,
+            "fechaRegistro": "2016-03-20 09:19:52",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685701.pdf"
+        },
+        {
+            "idImagen": 33685702,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685702.pdf",
+            "posicion": 98,
+            "fechaRegistro": "2016-03-20 09:19:52",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685702.pdf"
+        },
+        {
+            "idImagen": 33685703,
+            "ruta": "imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685703.pdf",
+            "posicion": 99,
+            "fechaRegistro": "2016-03-20 09:19:53",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/954/2014/expediente/1009/EXPE33685703.pdf"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "datetime": "13/05/2026 13:17:57",
+    "request-id": "43eaeb09-7b8d-4df3-8342-1097ee72c517",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 6558082,
+            "numero": 466,
+            "anio": "2025",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10218,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-02-25T16:02:14.000000Z",
+            "fechaRadicacion": "2025-02-25 10:02:14",
+            "cveUsuario": 25399,
+            "observaciones": "UN CONTRATO DE MUTUO INTERES EN COPIA CERTIFICADA CONSTANTE DE DOS FOJAS \nUN PAGARE DE FECHA 22 DE NOVIEMBRE DE 2018\n UN TRASLADO",
+            "cveEstatus": 62,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 608,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 3,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "DEMANDA INICIAL",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10218,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10218,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+                "desCorta": "1 Civ y Ext Dom Ecatepec"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 52,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 547,
+            "descLiti": "CUMPLIMIENTO DE CONTRATO (CIVIL)"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 13365791,
+                    "nombre": "MARIA EDITH",
+                    "paterno": "MOLINA",
+                    "materno": "NAVA",
+                    "nombreBuscar": "MARIA EDITH MOLINA NAVA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-25T15:02:42.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-02-25T15:02:42.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "MARIA EDITH MOLINA NAVA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 13365792,
+                    "nombre": "RAUL",
+                    "paterno": "SALVADOR",
+                    "materno": "PASCUAL",
+                    "nombreBuscar": "RAUL SALVADOR PASCUAL",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-25T15:02:42.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-04-02T22:21:09.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "RAUL SALVADOR PASCUAL",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
+}

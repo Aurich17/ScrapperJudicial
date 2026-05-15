@@ -1,0 +1,1129 @@
+{
+    "datetime": "12/05/2026 12:51:43",
+    "request-id": "ee32550b-5cd0-417d-b8cd-681047be916f",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 442027740,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027740.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027740.pdf"
+        },
+        {
+            "idImagen": 442027741,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027741.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027741.pdf"
+        },
+        {
+            "idImagen": 442027742,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027742.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027742.pdf"
+        },
+        {
+            "idImagen": 442027743,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027743.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027743.pdf"
+        },
+        {
+            "idImagen": 442027744,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027744.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027744.pdf"
+        },
+        {
+            "idImagen": 442027745,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027745.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027745.pdf"
+        },
+        {
+            "idImagen": 442027746,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027746.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2026-01-15 15:26:11",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027746.pdf"
+        },
+        {
+            "idImagen": 442027747,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027747.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027747.pdf"
+        },
+        {
+            "idImagen": 442027749,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027749.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027749.pdf"
+        },
+        {
+            "idImagen": 442027750,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027750.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027750.pdf"
+        },
+        {
+            "idImagen": 442027751,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027751.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027751.pdf"
+        },
+        {
+            "idImagen": 442027753,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027753.pdf",
+            "posicion": 12,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027753.pdf"
+        },
+        {
+            "idImagen": 442027754,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027754.pdf",
+            "posicion": 13,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027754.pdf"
+        },
+        {
+            "idImagen": 442027755,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027755.pdf",
+            "posicion": 14,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027755.pdf"
+        },
+        {
+            "idImagen": 442027756,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027756.pdf",
+            "posicion": 15,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027756.pdf"
+        },
+        {
+            "idImagen": 442027758,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027758.pdf",
+            "posicion": 16,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027758.pdf"
+        },
+        {
+            "idImagen": 442027759,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027759.pdf",
+            "posicion": 17,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027759.pdf"
+        },
+        {
+            "idImagen": 442027760,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027760.pdf",
+            "posicion": 18,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027760.pdf"
+        },
+        {
+            "idImagen": 442027761,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027761.pdf",
+            "posicion": 19,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027761.pdf"
+        },
+        {
+            "idImagen": 442027762,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027762.pdf",
+            "posicion": 20,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027762.pdf"
+        },
+        {
+            "idImagen": 442027764,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027764.pdf",
+            "posicion": 21,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027764.pdf"
+        },
+        {
+            "idImagen": 442027765,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027765.pdf",
+            "posicion": 22,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027765.pdf"
+        },
+        {
+            "idImagen": 442027766,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027766.pdf",
+            "posicion": 23,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027766.pdf"
+        },
+        {
+            "idImagen": 442027767,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027767.pdf",
+            "posicion": 24,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027767.pdf"
+        },
+        {
+            "idImagen": 442027768,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027768.pdf",
+            "posicion": 25,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027768.pdf"
+        },
+        {
+            "idImagen": 442027769,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027769.pdf",
+            "posicion": 26,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027769.pdf"
+        },
+        {
+            "idImagen": 442027770,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027770.pdf",
+            "posicion": 27,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027770.pdf"
+        },
+        {
+            "idImagen": 442027771,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027771.pdf",
+            "posicion": 28,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027771.pdf"
+        },
+        {
+            "idImagen": 442027772,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027772.pdf",
+            "posicion": 29,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027772.pdf"
+        },
+        {
+            "idImagen": 442027773,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027773.pdf",
+            "posicion": 30,
+            "fechaRegistro": "2026-01-15 15:26:12",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027773.pdf"
+        },
+        {
+            "idImagen": 442027776,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027776.pdf",
+            "posicion": 31,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027776.pdf"
+        },
+        {
+            "idImagen": 442027777,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027777.pdf",
+            "posicion": 32,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027777.pdf"
+        },
+        {
+            "idImagen": 442027778,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027778.pdf",
+            "posicion": 33,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027778.pdf"
+        },
+        {
+            "idImagen": 442027779,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027779.pdf",
+            "posicion": 34,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027779.pdf"
+        },
+        {
+            "idImagen": 442027780,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027780.pdf",
+            "posicion": 35,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027780.pdf"
+        },
+        {
+            "idImagen": 442027781,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027781.pdf",
+            "posicion": 36,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027781.pdf"
+        },
+        {
+            "idImagen": 442027782,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027782.pdf",
+            "posicion": 37,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027782.pdf"
+        },
+        {
+            "idImagen": 442027783,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027783.pdf",
+            "posicion": 38,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027783.pdf"
+        },
+        {
+            "idImagen": 442027784,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027784.pdf",
+            "posicion": 39,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027784.pdf"
+        },
+        {
+            "idImagen": 442027785,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027785.pdf",
+            "posicion": 40,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027785.pdf"
+        },
+        {
+            "idImagen": 442027786,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027786.pdf",
+            "posicion": 41,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027786.pdf"
+        },
+        {
+            "idImagen": 442027787,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027787.pdf",
+            "posicion": 42,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027787.pdf"
+        },
+        {
+            "idImagen": 442027788,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027788.pdf",
+            "posicion": 43,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027788.pdf"
+        },
+        {
+            "idImagen": 442027789,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027789.pdf",
+            "posicion": 44,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027789.pdf"
+        },
+        {
+            "idImagen": 442027790,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027790.pdf",
+            "posicion": 45,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027790.pdf"
+        },
+        {
+            "idImagen": 442027792,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027792.pdf",
+            "posicion": 46,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027792.pdf"
+        },
+        {
+            "idImagen": 442027793,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027793.pdf",
+            "posicion": 47,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027793.pdf"
+        },
+        {
+            "idImagen": 442027794,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027794.pdf",
+            "posicion": 48,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027794.pdf"
+        },
+        {
+            "idImagen": 442027795,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027795.pdf",
+            "posicion": 49,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027795.pdf"
+        },
+        {
+            "idImagen": 442027796,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027796.pdf",
+            "posicion": 50,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027796.pdf"
+        },
+        {
+            "idImagen": 442027797,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027797.pdf",
+            "posicion": 51,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027797.pdf"
+        },
+        {
+            "idImagen": 442027798,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027798.pdf",
+            "posicion": 52,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027798.pdf"
+        },
+        {
+            "idImagen": 442027799,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027799.pdf",
+            "posicion": 53,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027799.pdf"
+        },
+        {
+            "idImagen": 442027800,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027800.pdf",
+            "posicion": 54,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027800.pdf"
+        },
+        {
+            "idImagen": 442027802,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027802.pdf",
+            "posicion": 55,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027802.pdf"
+        },
+        {
+            "idImagen": 442027804,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027804.pdf",
+            "posicion": 56,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027804.pdf"
+        },
+        {
+            "idImagen": 442027805,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027805.pdf",
+            "posicion": 57,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027805.pdf"
+        },
+        {
+            "idImagen": 442027806,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027806.pdf",
+            "posicion": 58,
+            "fechaRegistro": "2026-01-15 15:26:13",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027806.pdf"
+        },
+        {
+            "idImagen": 442027807,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027807.pdf",
+            "posicion": 59,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027807.pdf"
+        },
+        {
+            "idImagen": 442027808,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027808.pdf",
+            "posicion": 60,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027808.pdf"
+        },
+        {
+            "idImagen": 442027811,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027811.pdf",
+            "posicion": 61,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027811.pdf"
+        },
+        {
+            "idImagen": 442027812,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027812.pdf",
+            "posicion": 62,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027812.pdf"
+        },
+        {
+            "idImagen": 442027813,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027813.pdf",
+            "posicion": 63,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027813.pdf"
+        },
+        {
+            "idImagen": 442027814,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027814.pdf",
+            "posicion": 64,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027814.pdf"
+        },
+        {
+            "idImagen": 442027815,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027815.pdf",
+            "posicion": 65,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027815.pdf"
+        },
+        {
+            "idImagen": 442027816,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027816.pdf",
+            "posicion": 66,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027816.pdf"
+        },
+        {
+            "idImagen": 442027817,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027817.pdf",
+            "posicion": 67,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027817.pdf"
+        },
+        {
+            "idImagen": 442027819,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027819.pdf",
+            "posicion": 68,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027819.pdf"
+        },
+        {
+            "idImagen": 442027820,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027820.pdf",
+            "posicion": 69,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027820.pdf"
+        },
+        {
+            "idImagen": 442027821,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027821.pdf",
+            "posicion": 70,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027821.pdf"
+        },
+        {
+            "idImagen": 442027823,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027823.pdf",
+            "posicion": 71,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027823.pdf"
+        },
+        {
+            "idImagen": 442027825,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027825.pdf",
+            "posicion": 72,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027825.pdf"
+        },
+        {
+            "idImagen": 442027826,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027826.pdf",
+            "posicion": 73,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027826.pdf"
+        },
+        {
+            "idImagen": 442027828,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027828.pdf",
+            "posicion": 74,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027828.pdf"
+        },
+        {
+            "idImagen": 442027829,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027829.pdf",
+            "posicion": 75,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027829.pdf"
+        },
+        {
+            "idImagen": 442027834,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027834.pdf",
+            "posicion": 76,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027834.pdf"
+        },
+        {
+            "idImagen": 442027835,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027835.pdf",
+            "posicion": 77,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027835.pdf"
+        },
+        {
+            "idImagen": 442027836,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027836.pdf",
+            "posicion": 78,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027836.pdf"
+        },
+        {
+            "idImagen": 442027837,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027837.pdf",
+            "posicion": 79,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027837.pdf"
+        },
+        {
+            "idImagen": 442027838,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027838.pdf",
+            "posicion": 80,
+            "fechaRegistro": "2026-01-15 15:26:14",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027838.pdf"
+        },
+        {
+            "idImagen": 442027839,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027839.pdf",
+            "posicion": 81,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027839.pdf"
+        },
+        {
+            "idImagen": 442027840,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027840.pdf",
+            "posicion": 82,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027840.pdf"
+        },
+        {
+            "idImagen": 442027841,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027841.pdf",
+            "posicion": 83,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027841.pdf"
+        },
+        {
+            "idImagen": 442027842,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027842.pdf",
+            "posicion": 84,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027842.pdf"
+        },
+        {
+            "idImagen": 442027843,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027843.pdf",
+            "posicion": 85,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027843.pdf"
+        },
+        {
+            "idImagen": 442027845,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027845.pdf",
+            "posicion": 86,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027845.pdf"
+        },
+        {
+            "idImagen": 442027846,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027846.pdf",
+            "posicion": 87,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027846.pdf"
+        },
+        {
+            "idImagen": 442027847,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027847.pdf",
+            "posicion": 88,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027847.pdf"
+        },
+        {
+            "idImagen": 442027850,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027850.pdf",
+            "posicion": 89,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027850.pdf"
+        },
+        {
+            "idImagen": 442027851,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027851.pdf",
+            "posicion": 90,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027851.pdf"
+        },
+        {
+            "idImagen": 442027853,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027853.pdf",
+            "posicion": 91,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027853.pdf"
+        },
+        {
+            "idImagen": 442027854,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027854.pdf",
+            "posicion": 92,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027854.pdf"
+        },
+        {
+            "idImagen": 442027855,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027855.pdf",
+            "posicion": 93,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027855.pdf"
+        },
+        {
+            "idImagen": 442027856,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027856.pdf",
+            "posicion": 94,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027856.pdf"
+        },
+        {
+            "idImagen": 442027857,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027857.pdf",
+            "posicion": 95,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027857.pdf"
+        },
+        {
+            "idImagen": 442027858,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027858.pdf",
+            "posicion": 96,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027858.pdf"
+        },
+        {
+            "idImagen": 442027859,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027859.pdf",
+            "posicion": 97,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027859.pdf"
+        },
+        {
+            "idImagen": 442027860,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027860.pdf",
+            "posicion": 98,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027860.pdf"
+        },
+        {
+            "idImagen": 442027863,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027863.pdf",
+            "posicion": 99,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027863.pdf"
+        },
+        {
+            "idImagen": 442027865,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027865.pdf",
+            "posicion": 100,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027865.pdf"
+        },
+        {
+            "idImagen": 442027866,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027866.pdf",
+            "posicion": 101,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027866.pdf"
+        },
+        {
+            "idImagen": 442027867,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027867.pdf",
+            "posicion": 102,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027867.pdf"
+        },
+        {
+            "idImagen": 442027868,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027868.pdf",
+            "posicion": 103,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027868.pdf"
+        },
+        {
+            "idImagen": 442027869,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027869.pdf",
+            "posicion": 104,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027869.pdf"
+        },
+        {
+            "idImagen": 442027870,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027870.pdf",
+            "posicion": 105,
+            "fechaRegistro": "2026-01-15 15:26:15",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027870.pdf"
+        },
+        {
+            "idImagen": 442027872,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027872.pdf",
+            "posicion": 106,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027872.pdf"
+        },
+        {
+            "idImagen": 442027873,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027873.pdf",
+            "posicion": 107,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027873.pdf"
+        },
+        {
+            "idImagen": 442027874,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027874.pdf",
+            "posicion": 108,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027874.pdf"
+        },
+        {
+            "idImagen": 442027876,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027876.pdf",
+            "posicion": 109,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027876.pdf"
+        },
+        {
+            "idImagen": 442027877,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027877.pdf",
+            "posicion": 110,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027877.pdf"
+        },
+        {
+            "idImagen": 442027878,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027878.pdf",
+            "posicion": 111,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027878.pdf"
+        },
+        {
+            "idImagen": 442027879,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027879.pdf",
+            "posicion": 112,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027879.pdf"
+        },
+        {
+            "idImagen": 442027880,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027880.pdf",
+            "posicion": 113,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027880.pdf"
+        },
+        {
+            "idImagen": 442027881,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027881.pdf",
+            "posicion": 114,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027881.pdf"
+        },
+        {
+            "idImagen": 442027882,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027882.pdf",
+            "posicion": 115,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027882.pdf"
+        },
+        {
+            "idImagen": 442027883,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027883.pdf",
+            "posicion": 116,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027883.pdf"
+        },
+        {
+            "idImagen": 442027885,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027885.pdf",
+            "posicion": 117,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027885.pdf"
+        },
+        {
+            "idImagen": 442027886,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027886.pdf",
+            "posicion": 118,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027886.pdf"
+        },
+        {
+            "idImagen": 442027887,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027887.pdf",
+            "posicion": 119,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027887.pdf"
+        },
+        {
+            "idImagen": 442027888,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027888.pdf",
+            "posicion": 120,
+            "fechaRegistro": "2026-01-15 15:26:16",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027888.pdf"
+        },
+        {
+            "idImagen": 442027891,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027891.pdf",
+            "posicion": 121,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027891.pdf"
+        },
+        {
+            "idImagen": 442027892,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027892.pdf",
+            "posicion": 122,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027892.pdf"
+        },
+        {
+            "idImagen": 442027893,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027893.pdf",
+            "posicion": 123,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027893.pdf"
+        },
+        {
+            "idImagen": 442027894,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027894.pdf",
+            "posicion": 124,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027894.pdf"
+        },
+        {
+            "idImagen": 442027896,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027896.pdf",
+            "posicion": 125,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027896.pdf"
+        },
+        {
+            "idImagen": 442027897,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027897.pdf",
+            "posicion": 126,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027897.pdf"
+        },
+        {
+            "idImagen": 442027898,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027898.pdf",
+            "posicion": 127,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027898.pdf"
+        },
+        {
+            "idImagen": 442027899,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027899.pdf",
+            "posicion": 128,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027899.pdf"
+        },
+        {
+            "idImagen": 442027901,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027901.pdf",
+            "posicion": 129,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027901.pdf"
+        },
+        {
+            "idImagen": 442027902,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027902.pdf",
+            "posicion": 130,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027902.pdf"
+        },
+        {
+            "idImagen": 442027903,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027903.pdf",
+            "posicion": 131,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027903.pdf"
+        },
+        {
+            "idImagen": 442027904,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027904.pdf",
+            "posicion": 132,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027904.pdf"
+        },
+        {
+            "idImagen": 442027905,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027905.pdf",
+            "posicion": 133,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027905.pdf"
+        },
+        {
+            "idImagen": 442027906,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027906.pdf",
+            "posicion": 134,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027906.pdf"
+        },
+        {
+            "idImagen": 442027907,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027907.pdf",
+            "posicion": 135,
+            "fechaRegistro": "2026-01-15 15:26:17",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027907.pdf"
+        },
+        {
+            "idImagen": 442027913,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027913.pdf",
+            "posicion": 136,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027913.pdf"
+        },
+        {
+            "idImagen": 442027914,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027914.pdf",
+            "posicion": 137,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027914.pdf"
+        },
+        {
+            "idImagen": 442027915,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027915.pdf",
+            "posicion": 138,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027915.pdf"
+        },
+        {
+            "idImagen": 442027916,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027916.pdf",
+            "posicion": 139,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027916.pdf"
+        },
+        {
+            "idImagen": 442027917,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027917.pdf",
+            "posicion": 140,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027917.pdf"
+        },
+        {
+            "idImagen": 442027919,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027919.pdf",
+            "posicion": 141,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027919.pdf"
+        },
+        {
+            "idImagen": 442027920,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027920.pdf",
+            "posicion": 142,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027920.pdf"
+        },
+        {
+            "idImagen": 442027921,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027921.pdf",
+            "posicion": 143,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027921.pdf"
+        },
+        {
+            "idImagen": 442027922,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027922.pdf",
+            "posicion": 144,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027922.pdf"
+        },
+        {
+            "idImagen": 442027923,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027923.pdf",
+            "posicion": 145,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027923.pdf"
+        },
+        {
+            "idImagen": 442027924,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027924.pdf",
+            "posicion": 146,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027924.pdf"
+        },
+        {
+            "idImagen": 442027925,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027925.pdf",
+            "posicion": 147,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027925.pdf"
+        },
+        {
+            "idImagen": 442027926,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027926.pdf",
+            "posicion": 148,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027926.pdf"
+        },
+        {
+            "idImagen": 442027927,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027927.pdf",
+            "posicion": 149,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027927.pdf"
+        },
+        {
+            "idImagen": 442027928,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027928.pdf",
+            "posicion": 150,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027928.pdf"
+        },
+        {
+            "idImagen": 442027933,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027933.pdf",
+            "posicion": 151,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027933.pdf"
+        },
+        {
+            "idImagen": 442027934,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027934.pdf",
+            "posicion": 152,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027934.pdf"
+        },
+        {
+            "idImagen": 442027936,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027936.pdf",
+            "posicion": 153,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027936.pdf"
+        },
+        {
+            "idImagen": 442027937,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027937.pdf",
+            "posicion": 154,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027937.pdf"
+        },
+        {
+            "idImagen": 442027938,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027938.pdf",
+            "posicion": 155,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027938.pdf"
+        },
+        {
+            "idImagen": 442027939,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027939.pdf",
+            "posicion": 156,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027939.pdf"
+        },
+        {
+            "idImagen": 442027940,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027940.pdf",
+            "posicion": 157,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027940.pdf"
+        },
+        {
+            "idImagen": 442027941,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027941.pdf",
+            "posicion": 158,
+            "fechaRegistro": "2026-01-15 15:26:18",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027941.pdf"
+        },
+        {
+            "idImagen": 442027942,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027942.pdf",
+            "posicion": 159,
+            "fechaRegistro": "2026-01-15 15:26:19",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027942.pdf"
+        },
+        {
+            "idImagen": 442027944,
+            "ruta": "imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027944.pdf",
+            "posicion": 160,
+            "fechaRegistro": "2026-01-15 15:26:19",
+            "path": "/var/www/storage/app/public/imagenes/ecatepec/civil/10218/2026/expediente/82/EXPE442027944.pdf"
+        }
+    ]
+}

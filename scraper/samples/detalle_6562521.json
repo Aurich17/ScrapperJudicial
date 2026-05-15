@@ -1,0 +1,142 @@
+{
+    "datetime": "13/05/2026 13:08:01",
+    "request-id": "4dd4283e-ce74-421e-b0e9-fa99be8d9426",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 6562521,
+            "numero": 496,
+            "anio": "2025",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10218,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-02-27T17:27:34.000000Z",
+            "fechaRadicacion": "2025-02-27 11:27:34",
+            "cveUsuario": 24857,
+            "observaciones": "UN CONTRATO DE CESION DE DERECHOS CON FIRMAS AUTOGRAFAS CONSTANTE EN UNA FOJA \nUNA SOLICITUD DE CERTIFICADO DE UNSCRIPCION DEL IFREM CON SELLO\nUN CERTIFICADO DE INSCRIPCION DEL IFEM \nUN VOLANTE UNIVERSAL DEL IFREM CON BAUCHER PEGADO AL COSTADO IZQUIERDO\nUNA COPIA SIMPLE DE ANEXO DONDE MENCIONA MEDIDAS Y COLINDANCIAS \nUN TESTIMONIO DE ESCRITURA NUMERO 14139/204 EN COPIA CERTIFICADA\nUNA LINEA DE CAPTURA DE DETOS DE LA CONTRIBUCION DE FECHA 13/01/2023\nCUATRO LINEAS DE CAPTURA DE PAGO DE IMPUESTOS INMOBILIARIOS CON SELLO \nDOS IMPRESIONES DE MANIFESTACION DE VALOR CATASTRAL \nUNA LINEA DE PAGO CON FOLIO 46419 CON BAUCHER PEGADO DEL LADO IZQUIERDO \nUNA LINEA DE CAPTURA CON FOLIO 0000130 CON BAUCHER PEGADO DEL LADO IZQUIERDO\nUNA MANIFESTACION DE VALOR CATASTRAL CON BAUCHER PEGADO DEL LADO INFERIOR\nUNA IMPRESION DE LINEA DE PAGO DE IMPUESTOS INMOBILIARIOS\nUNA IMPRESION LINEA DE LINEA DE PAGO DE IMPUESTO PREDIAL \nDIEZ RECIBOS DE PAGO DE IMPUESTO PREDIAL \nCUATRO HOJAS OFICIO QUE CONTIENE CADA UNA TRES RECUBOS DE TESORERIA MUNICIPAL PEGADOS \nDOS LINEAS DE CAPRUTA DE PAGO DE SAPASE \nONCE RECIBOS DE SAPASE\nTRES HOJAS TAMAÑO OFICIO, CADA UNA CONTIENE TRES RECIBOS DE CONSUMO DE AGUA PEGADOS",
+            "cveEstatus": 62,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 608,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 6,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "DEMANDA INICIAL",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10218,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10218,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+                "desCorta": "1 Civ y Ext Dom Ecatepec"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 54,
+            "descModalidad": "PROCEDIMIENTO ESPECIAL"
+        },
+        "juicio": {
+            "cveLiti": 678,
+            "descLiti": "USUCAPIÓN SUMARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 13376947,
+                    "nombre": "NESTOR",
+                    "paterno": "RODRIGUEZ",
+                    "materno": "CABRERA",
+                    "nombreBuscar": "NESTOR RODRIGUEZ CABRERA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:28:03.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-02-27T16:28:03.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "NESTOR RODRIGUEZ CABRERA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 13376948,
+                    "nombre": "NORMA AZUCENA",
+                    "paterno": "RODRIGUEZ",
+                    "materno": "CABRERA",
+                    "nombreBuscar": "NORMA AZUCENA RODRIGUEZ CABRERA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:28:03.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-02-27T16:28:03.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "NORMA AZUCENA RODRIGUEZ CABRERA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 13376949,
+                    "nombre": "GLORIA",
+                    "paterno": "ESCAMILLA",
+                    "materno": "ESCAMILLA",
+                    "nombreBuscar": "GLORIA ESCAMILLA ESCAMILLA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:28:03.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-03-06T16:19:57.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "GLORIA ESCAMILLA ESCAMILLA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
+}

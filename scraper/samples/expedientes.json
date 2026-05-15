@@ -1,0 +1,666 @@
+{
+    "datetime": "13/05/2026 13:08:00",
+    "request-id": "817afcab-1822-42d8-b9e5-cf1db13c55ae",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "IdJuzgado": 10218,
+            "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+            "CveRegion": 4,
+            "CveAds": 1,
+            "nvaInstancia": 36,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 6562521,
+                    "numero": 496,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "UN CONTRATO DE CESION DE DERECHOS CON FIRMAS AUTOGRAFAS CONSTANTE EN UNA FOJA \nUNA SOLICITUD DE CERTIFICADO DE UNSCRIPCION DEL IFREM CON SELLO\nUN CERTIFICADO DE INSCRIPCION DEL IFEM \nUN VOLANTE UNIVERSAL DEL IFREM CON BAUCHER PEGADO AL COSTADO IZQUIERDO\nUNA COPIA SIMPLE DE ANEXO DONDE MENCIONA MEDIDAS Y COLINDANCIAS \nUN TESTIMONIO DE ESCRITURA NUMERO 14139/204 EN COPIA CERTIFICADA\nUNA LINEA DE CAPTURA DE DETOS DE LA CONTRIBUCION DE FECHA 13/01/2023\nCUATRO LINEAS DE CAPTURA DE PAGO DE IMPUESTOS INMOBILIARIOS CON SELLO \nDOS IMPRESIONES DE MANIFESTACION DE VALOR CATASTRAL \nUNA LINEA DE PAGO CON FOLIO 46419 CON BAUCHER PEGADO DEL LADO IZQUIERDO \nUNA LINEA DE CAPTURA CON FOLIO 0000130 CON BAUCHER PEGADO DEL LADO IZQUIERDO\nUNA MANIFESTACION DE VALOR CATASTRAL CON BAUCHER PEGADO DEL LADO INFERIOR\nUNA IMPRESION DE LINEA DE PAGO DE IMPUESTOS INMOBILIARIOS\nUNA IMPRESION LINEA DE LINEA DE PAGO DE IMPUESTO PREDIAL \nDIEZ RECIBOS DE PAGO DE IMPUESTO PREDIAL \nCUATRO HOJAS OFICIO QUE CONTIENE CADA UNA TRES RECUBOS DE TESORERIA MUNICIPAL PEGADOS \nDOS LINEAS DE CAPRUTA DE PAGO DE SAPASE \nONCE RECIBOS DE SAPASE\nTRES HOJAS TAMAÑO OFICIO, CADA UNA CONTIENE TRES RECIBOS DE CONSUMO DE AGUA PEGADOS",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-02-27T17:27:34.000000Z",
+                    "fechaRadicacion": "2025-02-27 11:27:34",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6562405,
+                    "numero": 494,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "UN CONTRATO DE CESION DE DERECHOS CON FIRMAS AUTOGRAFAS \nUNA SOLICITUD DE CERTIFICADO DE INSRIPCION DEL IFREM CON SELLO\nUNA SOLICITUD DEL IFREM CON FOLIO DE TRAMITE 621453 CON BAUCHER \nUN CERTIFICADO DE INSCRIPCION DEL IFREM\nUN VOLANTE UNIVERSAL DEL IFREM\nUNA ESCRITURA NUMERO 16,252 SU PRIMER HOJA RASGADA DEL LADO IZQUIERDO \nDOS  LINEA DE CAPTURA DE IMPUESTOS INMOBILIARIOS CON SELLO\nDOS RECIBOS DE PAGO DE UMPUESTOS UNMOBILIARIOS \nUNA MANOIFESTACION DE VALOR CATASTRAL CON BAUCHER PEGADO EN SU PARTE INFERIOR \nDIEZ RECIBOS DE IMPUESTO PREDIAL \nOCHO HOJAS TAMAÑO OFICIO CADA UNA CONTIENE TRES RECIBOS PEGADOS DE TESORERIA MUNICIPAL\nUNA LINEA DE CAPTURA DE PAGO DE AGUA POTABLE\nDIEZ RECIBOS DE AGUA POTABLE",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-02-27T17:05:18.000000Z",
+                    "fechaRadicacion": "2025-02-27 11:05:18",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6558082,
+                    "numero": 466,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "UN CONTRATO DE MUTUO INTERES EN COPIA CERTIFICADA CONSTANTE DE DOS FOJAS \nUN PAGARE DE FECHA 22 DE NOVIEMBRE DE 2018\n UN TRASLADO",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-02-25T16:02:14.000000Z",
+                    "fechaRadicacion": "2025-02-25 10:02:14",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 7150816,
+                    "numero": 2153,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "UN CONTRATO DE CESIÓN DE DERECHOS DE FECHA 10 DE MAYO DEL AÑO 2005 CON FIRMAS AUTOGRAFAS EN DOS HOJAS \nUN CERTIFICADO DE INSCRIPCIÓN DEL IFREM\nUNA SOLICITUD DE CERTIFICADO DE INSCRIPCIÓN CON SELLO DE ENTREGADO\nUN VOLANTE UNIVERSAL DEL IFREM, CON UN TICKET DE PAGO INSERTO AL MISMO \nUNA COPIA SIMPLE DE UN ESTRACTO DE ESCRITURA\nUNA CREDENCIAL PARA VOTAR EN COPIA SIMPLE\n19 RECIBOS DE LA COMISIÓN FEDERAL DE ELECTRICIDAD\nUN TRASLADO DEL ESCRITO PRESENTADO Y ANEXOS",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-09-12T16:02:49.000000Z",
+                    "fechaRadicacion": "2025-09-12 10:02:49",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 7183969,
+                    "numero": 2345,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "un interrogatorio \nun contrato de cesion de derechos 10 de mayo 2005 con firmas autografas \nun certificado de inscripcion \nuna solicitud de certificado de inscripicon en copia simple sellado \nun volante universal con comprobante de pago \nuna credencial para votar en copia simple \nun instrumento numero nueve mil ciento noventa y tres \n18 recibos de cfe \nun recibo de cfe impreso. \nun traslado.",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-10-08T18:19:33.000000Z",
+                    "fechaRadicacion": "2025-10-08 12:19:33",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 7224883,
+                    "numero": 2626,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "UN CONTRATO DE CESION DE DERECHOS DE FECHA 10  MAYO 2005, EN DOS FOJAS, CON FIRMAS AUTOGRAFAS \nUN VOLANTE UNIVERSAL DEL IFREM \nUN CERTIFICADO DE INSCRIPCION DEL IFREM\nUNA SOLICITUS DE CERTIFICADO DE INSCRIPCION \nUN INTERROGATORIO EN DOS FOJAS \nUN ESCRITURA NUMERO NUEVE MIL CIENTO NOVENTA Y TRES EN COPIA COTEJADA \n19 RECIBOS DE LA CFE \nUN TRASLADO DEL ESCRITO PRESENTADO Y ANEXOS",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-11-07T17:25:55.000000Z",
+                    "fechaRadicacion": "2025-11-07 11:25:55",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 7292262,
+                    "numero": 82,
+                    "anio": "2026",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "un interrogatorio  en dos hojas \nun pliego de posiciones \nun contrato de cesion de derechos de fecha 31 de diciembre de 2013 con firmas autografas\nun certificado de inscripcion \nun asolicitud de certificado de inscripcion \nun comprobante de pago \nuna solictud de certificado de inscripcion en copia simple sellado de entregado \nun volante universal \ndos comprobantes de pago sobre impuestos inmobiliarios \nun comprobante de pago \nuna manifestacion de valor catastral \n35 recibos oficiales \n2 recibos de pago \n8 recibos de pago \nun comprobante fiscal \nuna escritura dieciseis mil doscientos cincuenta y dos \ndos traslados.",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2026-01-15T21:08:48.000000Z",
+                    "fechaRadicacion": "2026-01-15 15:08:48",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10163,
+            "DesJuz": "JUZGADO DÉCIMO PRIMERO CIVIL DEL DISTRITO JUDICIAL DE TLALNEPANTLA CON RESIDENCIA EN NICOLAS ROMERO",
+            "CveRegion": 2,
+            "CveAds": 11,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 3494191,
+                    "numero": 1262,
+                    "anio": "2015",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "-",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2019-09-30T20:35:09.000000Z",
+                    "fechaRadicacion": "2015-12-07 00:00:00",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10160,
+            "DesJuz": "JUZGADO PRIMERO CIVIL DEL DISTRITO JUDICIAL DE OTUMBA",
+            "CveRegion": 3,
+            "CveAds": 1,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 7403564,
+                    "numero": 291,
+                    "anio": "2026",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "DEMANDA ELECTRONICA",
+                    "observaciones": "SE INTERPONE INTERDICTO DE RETENER LA POSESION",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2026-04-12T00:20:07.000000Z",
+                    "fechaRadicacion": "2026-04-11 18:20:07",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 954,
+            "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE TEXCOCO",
+            "CveRegion": 3,
+            "CveAds": 1,
+            "nvaInstancia": 36,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 1195684,
+                    "numero": 1009,
+                    "anio": "2014",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "",
+                    "observaciones": "1 CONTRATO DE CESION DE DERECHOS DE CREDITO DE FECHA 9/04/05\r\nEN CUATRO FOJAS CON FIRMAS AUTOGRAFAS\r\n1 TICKET DE SUCURSALES\r\n1 VOLANTE UNIVERSAL\r\n1 JUEGO DE COPIAS CERTIFICADAS EN 25 FOJAS\r\n1 JUEGO DE COPIAS CERTIFICADAS DEL EXP 244/09  EN DOS FOJAS CON CARATULA\r\n1 ACTA DE MATRIMONIO EN COPIA CERTIFICADA EN MAL ESTADO DE CONSERVACION\r\n1 ACTA DE DEFUNCION CERTIFICADA\r\n1 ACLARACION DE TRANSACCIONES EN TRES FOJAS\r\n1 ESTADO DE CUENTA EN DOS FOJAS EN IMPRESION\r\n11 HOJAS DE  INFORMACION FINANCIERA EN COPIA SIMPLE\r\n15 COMPROBANTES DE LIQUIDACION DE PAGO ORIGINALES\r\n72 RECIBOS VARIOS EN FRACCION ORIGINALES\r\n10 RECIBOS DE DINERO EN IMPRESION\r\n2 TRASLADOS \r\n",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2016-03-20T15:19:30.000000Z",
+                    "fechaRadicacion": "2014-09-08 14:13:51",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10069,
+            "DesJuz": "JUZGADO TERCERO CIVIL DEL DISTRITO JUDICIAL DE OTUMBA CON RESIDENCIA EN TEOTIHUACAN",
+            "CveRegion": 3,
+            "CveAds": 3,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 5241750,
+                    "numero": 1173,
+                    "anio": "2022",
+                    "cveTipoNumero": 3,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "EXHORTO",
+                    "observaciones": "OFICIO, EXHORTO, DOS TRASLADOS ",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2022-11-07T19:49:57.000000Z",
+                    "fechaRadicacion": "2022-11-07 13:49:57",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 3,
+                        "descTipoNumero": "EXHORTO",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 5401868,
+                    "numero": 222,
+                    "anio": "2023",
+                    "cveTipoNumero": 3,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "EXHORTO",
+                    "observaciones": "OFICIO, EXHORTO, DOS TRASLADOS",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2023-03-01T17:24:38.000000Z",
+                    "fechaRadicacion": "2023-03-01 11:24:38",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 3,
+                        "descTipoNumero": "EXHORTO",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 7147269,
+                    "numero": 1972,
+                    "anio": "2025",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "CONTRATO DE  CESIÓN DE DERECHOS EN DOS FOJAS\nVOLANTE UNIVERSAL DE IFREM\nSOLICITUD DE IFRM\nCERTIFICADO DE IFREM\nONCE RECIBO SDE TELEFONO DOS TRASLADOS",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-09-10T19:21:23.000000Z",
+                    "fechaRadicacion": "2025-09-10 13:21:23",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10184,
+            "DesJuz": "JUZGADO QUINTO CIVIL DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS CON RESIDENCIA EN TECÁMAC",
+            "CveRegion": 4,
+            "CveAds": 5,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 2539972,
+                    "numero": 1087,
+                    "anio": "2018",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "3 PAGARES \n1 CONTRATO EN 10 GOJAS \n1 JUEGO DE COPIAS DE TRASLADO ",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2018-09-10T19:45:17.000000Z",
+                    "fechaRadicacion": "2018-09-10 00:00:00",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10138,
+            "DesJuz": "JUZGADO SEXTO CIVIL DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+            "CveRegion": 3,
+            "CveAds": 6,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 4533120,
+                    "numero": 157,
+                    "anio": "2022",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "157/2022 - PRINCIPAL ANTERIOR  ",
+                    "observaciones": "1 ACTA DE NACIMIENTO EN COPIA CERTIIFCADA\n46 TICKETS DIVERSOS \n3 MANUSCRITOS \n2 IMPRESIONES FOTOGRAFICAS \n1 TRASLADO. ",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2022-02-02T17:56:03.000000Z",
+                    "fechaRadicacion": "2022-02-02 11:56:03",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 10099,
+            "DesJuz": "JUZGADO OCTAVO CIVIL DEL DISTRITO JUDICIAL DE TLALNEPANTLA CON RESIDENCIA EN ATIZAPAN DE ZARAGOZA",
+            "CveRegion": 2,
+            "CveAds": 8,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 6315214,
+                    "numero": 1015,
+                    "anio": "2024",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "SE REMITE CON \nUN CROQUIS DE AFECTACION EN IMPRESION \nUNA DECLARACION PARA EL PAGO DEL IMPUESTO SOBRE TRASLACION DE DOMONIO EN COPIA SIMPLE \nUN PRIMER TESTIMONIO NOTARIAL NUMERO 148877 CON FIRMA Y SELLO EN CUATRO  HOJAS EN TOTAL\nUNA HOJA EN COPIA SIMPLE DE CREDENCIAL \nUN PRIMER TESTIMONIO NOTARIAL NUMERO 81923 CON FIRMA Y SELLO \nUN PRIMER TESTIMONIO NOTARIAL NUMERO 102812 CON FIRMA Y SELLO \nTRES COPIAS DE TRASLADO",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2024-08-05T21:00:31.000000Z",
+                    "fechaRadicacion": "2024-08-05 15:00:31",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6462477,
+                    "numero": 1015,
+                    "anio": "2024",
+                    "cveTipoNumero": 5,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRUEBAS ACTORA",
+                    "observaciones": null,
+                    "carpetaInv": "",
+                    "fechaRegistro": "2024-11-25T18:35:09.000000Z",
+                    "fechaRadicacion": null,
+                    "carpetaPadre": {
+                        "idCarpetaJudicial": 6315214,
+                        "numero": 1015,
+                        "anio": "2024",
+                        "descTipoNumero": "EXPEDIENTE"
+                    },
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 5,
+                        "descTipoNumero": "CUADERNO",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6462760,
+                    "numero": 1015,
+                    "anio": "2024",
+                    "cveTipoNumero": 5,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRUEBAS DEMANDA",
+                    "observaciones": null,
+                    "carpetaInv": "",
+                    "fechaRegistro": "2024-11-25T19:33:07.000000Z",
+                    "fechaRadicacion": null,
+                    "carpetaPadre": {
+                        "idCarpetaJudicial": 6315214,
+                        "numero": 1015,
+                        "anio": "2024",
+                        "descTipoNumero": "EXPEDIENTE"
+                    },
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 5,
+                        "descTipoNumero": "CUADERNO",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6578912,
+                    "numero": 1015,
+                    "anio": "2024",
+                    "cveTipoNumero": 5,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "APELACION",
+                    "observaciones": null,
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-03-11T18:46:05.000000Z",
+                    "fechaRadicacion": null,
+                    "carpetaPadre": {
+                        "idCarpetaJudicial": 6315214,
+                        "numero": 1015,
+                        "anio": "2024",
+                        "descTipoNumero": "EXPEDIENTE"
+                    },
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 5,
+                        "descTipoNumero": "CUADERNO",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 738,
+            "DesJuz": "JUZGADO MIXTO  DEL DISTRITO JUDICIAL DE ZUMPANGO",
+            "CveRegion": 4,
+            "CveAds": 0,
+            "nvaInstancia": 38,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 5716585,
+                    "numero": 31570,
+                    "anio": "2023",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": " PRINCIPAL NUEVO -31570/2023",
+                    "observaciones": "CINCO PAGARES EN ORIGINAL  Y COPIA\nUN TRASLADO ,EXPEDIENTE MIGRADO CUYO ORIGEN ES EL EXPEDIENTE 717/2022 DEL JUZGADO CIVIL DEL DISTRITO JUDICIAL DE ZUMPANGO",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2023-08-26T05:20:00.000000Z",
+                    "fechaRadicacion": "2023-08-25 23:20:00",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 666,
+            "DesJuz": "JUZGADO MIXTO DEL DISTRITO JUDICIAL CHALCO CON RESIDENCIA EN VALLE DE CHALCO SOLIDARIDAD",
+            "CveRegion": 3,
+            "CveAds": 0,
+            "nvaInstancia": 38,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 4806450,
+                    "numero": 948,
+                    "anio": "2022",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "DOS INTERROGATORIOS CON TRASLADO, UN CERTIFICADO DE INSCRIPCIÓN  CON VOLANTE UNIVERSAL Y TIKET DE PAGO, SOLICITUD DE CERTIFICADO,CON VOLANTE UNIVERSAL,  CONTRATO DE DONACIÓN EN CUATRO  FOJAS CON COPIA SIMPLE,  DOS CROQUIS, UNA CONSTANCIA DE UBICACIÓN, CERTIFICADO DE INSCRIPCIÓN, UN ESCRITO CON FIRMA AUTÓGRAFA,  UN CUESTIONARIO CON COPIA SIMPLE, IMPRESIÓN  DE  CÉDULA  PROFESIONAL DE PERITO, AUTORIZACIÓN DE PERITO, COPIAS CERTIFICADAS  DEL IFREM,  SIETE  RECIBOS DE PAGO, DOS FACTURAS, CINCO RECIBOS DE PAGO,  DOS COPIAS SIMPLES DE CREDENCIAL PARA VOTAR, COPIA SIMPLE DE CERTIFICADO DE NACIMIENTO, TRES COPIAS CERTIFICADAS DOS DE NACIMIENTO Y UNA DE MATRIMONIO, CONSTANCIA DE MATRIMONIO ECLESIÁSTICO, CUATRO COPIAS SIMPLES DE IDENTIFICACIONES, UN SOBRE CERRADO,  Y UN  TRASLADO",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2022-03-08T16:33:27.000000Z",
+                    "fechaRadicacion": "2022-03-08 00:00:00",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 364,
+            "DesJuz": "PRIMERA SALA COLEGIADA CIVIL DE TLALNEPANTLA",
+            "CveRegion": 2,
+            "CveAds": 1,
+            "nvaInstancia": 15,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 6599183,
+                    "numero": 136,
+                    "anio": "2025",
+                    "cveTipoNumero": 10,
+                    "cveMateria": 1,
+                    "nvaInstancia": 3,
+                    "descCarpetaJudicial": "TOCA",
+                    "observaciones": "Sin síntesis",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2025-03-27T16:42:37.000000Z",
+                    "fechaRadicacion": "2025-03-27 00:00:00",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 10,
+                        "descTipoNumero": "TOCA",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 186,
+            "DesJuz": "JUZGADO CIVIL DEL DISTRITO JUDICIAL DE ZUMPANGO",
+            "CveRegion": 4,
+            "CveAds": 0,
+            "nvaInstancia": 9,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 4938532,
+                    "numero": 717,
+                    "anio": "2022",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "717/2022 PRINCIPAL ANTERIOR  ",
+                    "observaciones": "CINCO PAGARES EN ORIGINAL  Y COPIA\nUN TRASLADO",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2022-06-14T17:50:03.000000Z",
+                    "fechaRadicacion": "2022-06-14 12:50:03",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        },
+        {
+            "IdJuzgado": 49,
+            "DesJuz": "JUZGADO MIXTO DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+            "CveRegion": 3,
+            "CveAds": 0,
+            "nvaInstancia": 38,
+            "expediente": [
+                {
+                    "idCarpetaJudicial": 5345478,
+                    "numero": 11261,
+                    "anio": "2023",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": " PRINCIPAL NUEVO ",
+                    "observaciones": "1 ACTA DE NACIMIENTO EN COPIA CERTIIFCADA\n46 TICKETS DIVERSOS \n3 MANUSCRITOS \n2 IMPRESIONES FOTOGRAFICAS \n1 TRASLADO.  EXPEDIENTE MIGRADO CUYO ORIGEN ES EL EXPEDIENTE 157/2022 DEL JUZGADO SEXTO CIVIL DEL DISTRITO JUDICIAL DE CHALCO CON RESIDENCIA EN IXTAPALUCA",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2023-01-24T07:49:19.000000Z",
+                    "fechaRadicacion": "2023-01-24 01:49:19",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "S",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                },
+                {
+                    "idCarpetaJudicial": 6181114,
+                    "numero": 2040,
+                    "anio": "2024",
+                    "cveTipoNumero": 1,
+                    "cveMateria": 1,
+                    "nvaInstancia": 1,
+                    "descCarpetaJudicial": "PRINCIPAL",
+                    "observaciones": "26 recibos de pago con 01 ticket cada uno \n4 recibos oficiales, 04 ordenes de pago en copias al carbon\n2 contratos de centa de lote a plazos con firmas autografas\n2 constancias de posesion con firmas autografas\n2 contratos de compraventa con firmas autografas\n1 volante universal con 01 ticket\n1 solicitud y 01 certificado de libertad o existencia de gravamenes\n1 volante universal con 01 ticket\n1 solicitud y 01 certificado de libertad o existencia de gravamenes\n1 solicitud de impuestos, con 01 formato universal de pago \n1 formato universal de pago con 01 ticket\n1 solicitud de impuestos con 01 formato universal de pago con 01 ticket\n1 copia simple con:  orden de pago con 01 recibo oficial \n2 manifestaciones del valor catastral, 02 declaraciones para el pago del impuesto con copia cada uno \n2 certificaciones de clave y valor catastral \n2 contratos de prestacion de servicios, 02 formatos universalesde pago con 01 ticket cada uno \n1 traslado.",
+                    "carpetaInv": "",
+                    "fechaRegistro": "2024-04-15T17:10:14.000000Z",
+                    "fechaRadicacion": "2024-04-15 11:10:14",
+                    "carpetaPadre": "",
+                    "archivado": "N",
+                    "concluido": "N",
+                    "tbltiposnumero": {
+                        "cveTipoNumero": 1,
+                        "descTipoNumero": "EXPEDIENTE",
+                        "color": null
+                    }
+                }
+            ]
+        }
+    ]
+}

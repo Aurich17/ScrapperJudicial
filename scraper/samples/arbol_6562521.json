@@ -1,0 +1,634 @@
+{
+    "datetime": "13/05/2026 13:08:03",
+    "request-id": "8c5dfebb-138d-446f-9506-6972c1de8ab5",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 6562521,
+            "referenciaId": 6562521,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2025-02-27 11:27:34",
+            "label": "496/2025--PRINCIPAL",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": [
+                {
+                    "key": "89503407_2",
+                    "referenciaId": 89503407,
+                    "icon": "letter-a",
+                    "parent": 6562521,
+                    "data": "2025-10-27 14:01:15",
+                    "label": "27-10-2025-ACUERDO-51181/2025-SUSPENDE TURNO P/SENTENCIA",
+                    "cveTipoActuacion": 2,
+                    "color": "#000000",
+                    "idFormulario": "493",
+                    "children": [
+                        {
+                            "key": "89575304_6",
+                            "referenciaId": 89575304,
+                            "icon": "file-description",
+                            "parent": "89503407_2",
+                            "data": "2025-10-28 22:43:51",
+                            "label": "28-10-2025-NOTIFICACION-39620/2025-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "88063982_1",
+                    "referenciaId": 88063982,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-09-19 10:29:16",
+                    "label": "19-09-2025-PROMOCION-37099/2025-SOLICITA DOS JUEGOS DE COP",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "88114836_2",
+                            "referenciaId": 88114836,
+                            "icon": "letter-a",
+                            "parent": "88063982_1",
+                            "data": "2025-09-22 09:00:18",
+                            "label": "22-09-2025-ACUERDO-44449/2025-AUTORIZA COPIAS",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "88221562_6",
+                                    "referenciaId": 88221562,
+                                    "icon": "file-description",
+                                    "parent": "88114836_2",
+                                    "data": "2025-09-24 00:18:13",
+                                    "label": "24-09-2025-NOTIFICACION-33815/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "87471952_7",
+                    "referenciaId": 87471952,
+                    "icon": "letter-d",
+                    "parent": 6562521,
+                    "data": "2025-09-01 14:02:05",
+                    "label": "01-09-2025-DILIGENCIA-12940/2025-COMPARECENCIA",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "86495067_1",
+                    "referenciaId": 86495067,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-08-06 13:02:59",
+                    "label": "06-08-2025-PROMOCION-30803/2025-CAUSA FIRMEZA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "86523763_2",
+                            "referenciaId": 86523763,
+                            "icon": "letter-a",
+                            "parent": "86495067_1",
+                            "data": "2025-08-07 00:42:32",
+                            "label": "07-08-2025-ACUERDO-36489/2025-CAUSA EJECUTORIA SENTENCIA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "87470088_5",
+                                    "referenciaId": 87470088,
+                                    "icon": "letter-o",
+                                    "parent": "86523763_2",
+                                    "data": "2025-09-01 13:41:29",
+                                    "label": "01-09-2025-OFICIO-9046/2025-EL INSTITUTO DE LA FUNCIÓ",
+                                    "cveTipoActuacion": 5,
+                                    "color": "#000000",
+                                    "idFormulario": "490",
+                                    "children": []
+                                },
+                                {
+                                    "key": "86627945_6",
+                                    "referenciaId": 86627945,
+                                    "icon": "file-description",
+                                    "parent": "86523763_2",
+                                    "data": "2025-08-08 21:21:18",
+                                    "label": "08-08-2025-NOTIFICACION-26679/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "85686606_3",
+                    "referenciaId": 85686606,
+                    "icon": "letter-s",
+                    "parent": 6562521,
+                    "data": "2025-07-02 08:57:29",
+                    "label": "02-07-2025-SENTENCIA-720/2025-PROCEDENTE",
+                    "cveTipoActuacion": 3,
+                    "color": "#000000",
+                    "idFormulario": "491",
+                    "children": [
+                        {
+                            "key": "85780615_6",
+                            "referenciaId": 85780615,
+                            "icon": "file-description",
+                            "parent": "85686606_3",
+                            "data": "2025-07-03 20:54:43",
+                            "label": "03-07-2025-NOTIFICACION-23030/2025-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        },
+                        {
+                            "key": "85753269_6",
+                            "referenciaId": 85753269,
+                            "icon": "file-description",
+                            "parent": "85686606_3",
+                            "data": "2025-07-03 11:50:25",
+                            "label": "03-07-2025-NOTIFICACION-22944/2025-JUZGADO PRIMERO CIVIL Y D",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "85529080_1",
+                    "referenciaId": 85529080,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-06-27 10:01:50",
+                    "label": "27-06-2025-PROMOCION-26801/2025-SE DICTE SENTENCIA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "85592569_2",
+                            "referenciaId": 85592569,
+                            "icon": "letter-a",
+                            "parent": "85529080_1",
+                            "data": "2025-06-30 11:37:23",
+                            "label": "30-06-2025-ACUERDO-31985/2025-TURNESE A SENTENCIA DEFINITIVA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "85677090_6",
+                                    "referenciaId": 85677090,
+                                    "icon": "file-description",
+                                    "parent": "85592569_2",
+                                    "data": "2025-07-02 05:27:55",
+                                    "label": "02-07-2025-NOTIFICACION-22538/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "85399476_2",
+                    "referenciaId": 85399476,
+                    "icon": "letter-a",
+                    "parent": 6562521,
+                    "data": "2025-06-24 15:03:06",
+                    "label": "24-06-2025-ACUERDO-30935/2025-TURNESE A SENTENCIA DEFINITIVA",
+                    "cveTipoActuacion": 2,
+                    "color": "#000000",
+                    "idFormulario": "493",
+                    "children": []
+                },
+                {
+                    "key": "3995445_14",
+                    "referenciaId": 3995445,
+                    "icon": "volume",
+                    "parent": 6562521,
+                    "data": "2025-06-23 15:11:57",
+                    "label": "23-06-2025-AUDIENCIA-496/2025-AUDIENCIA DE JUICIO",
+                    "cveTipoActuacion": 14,
+                    "color": "#000000",
+                    "idFormulario": "483",
+                    "children": [
+                        {
+                            "key": "85412770_6",
+                            "referenciaId": 85412770,
+                            "icon": "file-description",
+                            "parent": "3995445_14",
+                            "data": "2025-06-24 22:55:56",
+                            "label": "24-06-2025-NOTIFICACION-21191/2025-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "84635573_1",
+                    "referenciaId": 84635573,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-06-04 10:35:59",
+                    "label": "04-06-2025-PROMOCION-22901/2025-SOLICITA FECHA DE AUDIENCI",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "84687213_2",
+                            "referenciaId": 84687213,
+                            "icon": "letter-a",
+                            "parent": "84635573_1",
+                            "data": "2025-06-05 10:15:18",
+                            "label": "05-06-2025-ACUERDO-27319/2025-POR HECHAS MANIFESTACIONES",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "84756224_6",
+                                    "referenciaId": 84756224,
+                                    "icon": "file-description",
+                                    "parent": "84687213_2",
+                                    "data": "2025-06-06 13:14:05",
+                                    "label": "06-06-2025-NOTIFICACION-18246/2025-JUZGADO PRIMERO CIVIL Y D",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "84375879_1",
+                    "referenciaId": 84375879,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-05-28 10:36:38",
+                    "label": "28-05-2025-PROMOCION-21745/2025-SOLICITA SE SEÑALE NUEVA F",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "84423294_2",
+                            "referenciaId": 84423294,
+                            "icon": "letter-a",
+                            "parent": "84375879_1",
+                            "data": "2025-05-29 09:56:27",
+                            "label": "29-05-2025-ACUERDO-25982/2025-SEÑALA NUEVA FECHA PARA AUDIENCIA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "84491062_6",
+                                    "referenciaId": 84491062,
+                                    "icon": "file-description",
+                                    "parent": "84423294_2",
+                                    "data": "2025-05-30 12:44:50",
+                                    "label": "30-05-2025-NOTIFICACION-17081/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                },
+                                {
+                                    "key": "84485368_6",
+                                    "referenciaId": 84485368,
+                                    "icon": "file-description",
+                                    "parent": "84423294_2",
+                                    "data": "2025-05-30 11:48:43",
+                                    "label": "30-05-2025-NOTIFICACION-17032/2025-JUZGADO PRIMERO CIVIL Y D",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "84026870_4",
+                    "referenciaId": 84026870,
+                    "icon": "letter-c",
+                    "parent": 6562521,
+                    "data": "2025-05-19 12:10:32",
+                    "label": "19-05-2025-CERTIFICACION-1019/2025-CERTIFICACIÓN",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "83895201_1",
+                    "referenciaId": 83895201,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-05-15 09:24:38",
+                    "label": "15-05-2025-PROMOCION-19582/2025-EXHIBE PLIEGO",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "83971993_2",
+                            "referenciaId": 83971993,
+                            "icon": "letter-a",
+                            "parent": "83895201_1",
+                            "data": "2025-05-16 13:45:30",
+                            "label": "16-05-2025-ACUERDO-23486/2025-ADMITIR PRUEBAS",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "83573291_1",
+                    "referenciaId": 83573291,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-05-07 11:29:23",
+                    "label": "07-05-2025-PROMOCION-18281/2025-SOLICITA SE TURNE A SENTEN",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "83631182_2",
+                            "referenciaId": 83631182,
+                            "icon": "letter-a",
+                            "parent": "83573291_1",
+                            "data": "2025-05-08 11:08:03",
+                            "label": "08-05-2025-ACUERDO-21821/2025-POR HECHAS MANIFESTACIONES",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "83721010_6",
+                                    "referenciaId": 83721010,
+                                    "icon": "file-description",
+                                    "parent": "83631182_2",
+                                    "data": "2025-05-09 23:54:17",
+                                    "label": "09-05-2025-NOTIFICACION-13454/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                },
+                                {
+                                    "key": "83703012_6",
+                                    "referenciaId": 83703012,
+                                    "icon": "file-description",
+                                    "parent": "83631182_2",
+                                    "data": "2025-05-09 13:43:21",
+                                    "label": "09-05-2025-NOTIFICACION-13335/2025-JUZGADO PRIMERO CIVIL Y D",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "83076943_1",
+                    "referenciaId": 83076943,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-04-21 13:37:59",
+                    "label": "21-04-2025-PROMOCION-16093/2025-SOLICITA TURNE A SENTENCIA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "83119542_2",
+                            "referenciaId": 83119542,
+                            "icon": "letter-a",
+                            "parent": "83076943_1",
+                            "data": "2025-04-22 10:27:53",
+                            "label": "22-04-2025-ACUERDO-19212/2025-DAR VISTA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "82543524_1",
+                    "referenciaId": 82543524,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-03-31 13:10:12",
+                    "label": "31-03-2025-PROMOCION-13752/2025-SE PIDE TURNEN AUTOS AL DI",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "82579656_2",
+                            "referenciaId": 82579656,
+                            "icon": "letter-a",
+                            "parent": "82543524_1",
+                            "data": "2025-04-01 10:17:44",
+                            "label": "01-04-2025-ACUERDO-16295/2025-NO HA LUGAR",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "82434010_7",
+                    "referenciaId": 82434010,
+                    "icon": "letter-d",
+                    "parent": 6562521,
+                    "data": "2025-03-27 12:30:21",
+                    "label": "27-03-2025-DILIGENCIA-4965/2025-COMPARECENCIA",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "81736674_1",
+                    "referenciaId": 81736674,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-03-07 12:47:36",
+                    "label": "07-03-2025-PROMOCION-10249/2025-ALLANAMIENTO",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "81776011_2",
+                            "referenciaId": 81776011,
+                            "icon": "letter-a",
+                            "parent": "81736674_1",
+                            "data": "2025-03-10 09:51:07",
+                            "label": "10-03-2025-ACUERDO-12054/2025-ALLANAMIENTO",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "82034843_6",
+                                    "referenciaId": 82034843,
+                                    "icon": "file-description",
+                                    "parent": "81776011_2",
+                                    "data": "2025-03-17 23:10:43",
+                                    "label": "17-03-2025-NOTIFICACION-8557/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "81734151_7",
+                    "referenciaId": 81734151,
+                    "icon": "letter-d",
+                    "parent": 6562521,
+                    "data": "2025-03-07 11:29:14",
+                    "label": "07-03-2025-DILIGENCIA-3796/2025-EMPLAZAMIENTO",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "81585298_1",
+                    "referenciaId": 81585298,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-03-04 14:13:37",
+                    "label": "04-03-2025-PROMOCION-9550/2025-DESAHOGA PREVENCION",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "81620274_2",
+                            "referenciaId": 81620274,
+                            "icon": "letter-a",
+                            "parent": "81585298_1",
+                            "data": "2025-03-05 10:45:39",
+                            "label": "05-03-2025-ACUERDO-11157/2025-CUMPLE PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "81670139_6",
+                                    "referenciaId": 81670139,
+                                    "icon": "file-description",
+                                    "parent": "81620274_2",
+                                    "data": "2025-03-06 10:22:21",
+                                    "label": "06-03-2025-NOTIFICACION-7702/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                },
+                                {
+                                    "key": "81670101_7",
+                                    "referenciaId": 81670101,
+                                    "icon": "letter-d",
+                                    "parent": "81620274_2",
+                                    "data": "2025-03-06 10:21:49",
+                                    "label": "06-03-2025-TURNO A CENTRAL-3662/2025-",
+                                    "cveTipoActuacion": 7,
+                                    "color": "#000000",
+                                    "idFormulario": "498",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "81412244_1",
+                    "referenciaId": 81412244,
+                    "icon": "letter-p",
+                    "parent": 6562521,
+                    "data": "2025-02-27 11:27:35",
+                    "label": "27-02-2025-PROMOCION-8757/2025-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "81459405_2",
+                            "referenciaId": 81459405,
+                            "icon": "letter-a",
+                            "parent": "81412244_1",
+                            "data": "2025-02-28 10:37:41",
+                            "label": "28-02-2025-ACUERDO-10293/2025-PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "81551875_6",
+                                    "referenciaId": 81551875,
+                                    "icon": "file-description",
+                                    "parent": "81459405_2",
+                                    "data": "2025-03-03 22:48:05",
+                                    "label": "03-03-2025-NOTIFICACION-7330/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

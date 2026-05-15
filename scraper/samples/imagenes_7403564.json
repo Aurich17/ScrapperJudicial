@@ -1,0 +1,16 @@
+{
+    "datetime": "12/05/2026 12:57:35",
+    "request-id": "4c8085d9-1ac4-4cbd-95e0-6f5a37854952",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 459563972,
+            "ruta": "imagenes/solicitudesdemandas/SOLICITUD_99611/JUANCARLOS_YA_PARA_ENVIAR_firmado.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2026-04-11 18:20:06",
+            "path": "/var/www/storage/app/public/imagenes/solicitudesdemandas/SOLICITUD_99611/JUANCARLOS_YA_PARA_ENVIAR_firmado.pdf"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "datetime": "13/05/2026 13:12:45",
+    "request-id": "a6a12b9a-71ad-4a68-b78c-bd73087c12d1",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 6562405,
+            "numero": 494,
+            "anio": "2025",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10218,
+            "cveMateria": 1,
+            "fechaRegistro": "2025-02-27T17:05:18.000000Z",
+            "fechaRadicacion": "2025-02-27 11:05:18",
+            "cveUsuario": 24857,
+            "observaciones": "UN CONTRATO DE CESION DE DERECHOS CON FIRMAS AUTOGRAFAS \nUNA SOLICITUD DE CERTIFICADO DE INSRIPCION DEL IFREM CON SELLO\nUNA SOLICITUD DEL IFREM CON FOLIO DE TRAMITE 621453 CON BAUCHER \nUN CERTIFICADO DE INSCRIPCION DEL IFREM\nUN VOLANTE UNIVERSAL DEL IFREM\nUNA ESCRITURA NUMERO 16,252 SU PRIMER HOJA RASGADA DEL LADO IZQUIERDO \nDOS  LINEA DE CAPTURA DE IMPUESTOS INMOBILIARIOS CON SELLO\nDOS RECIBOS DE PAGO DE UMPUESTOS UNMOBILIARIOS \nUNA MANOIFESTACION DE VALOR CATASTRAL CON BAUCHER PEGADO EN SU PARTE INFERIOR \nDIEZ RECIBOS DE IMPUESTO PREDIAL \nOCHO HOJAS TAMAÑO OFICIO CADA UNA CONTIENE TRES RECIBOS PEGADOS DE TESORERIA MUNICIPAL\nUNA LINEA DE CAPTURA DE PAGO DE AGUA POTABLE\nDIEZ RECIBOS DE AGUA POTABLE",
+            "cveEstatus": 62,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 608,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 6,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "DEMANDA INICIAL",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10218,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10218,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+                "desCorta": "1 Civ y Ext Dom Ecatepec"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 54,
+            "descModalidad": "PROCEDIMIENTO ESPECIAL"
+        },
+        "juicio": {
+            "cveLiti": 678,
+            "descLiti": "USUCAPIÓN SUMARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 13376687,
+                    "nombre": "REYNA SILVIANA",
+                    "paterno": "RODRIGUEZ",
+                    "materno": "CABRERA",
+                    "nombreBuscar": "REYNA SILVIANA RODRIGUEZ CABRERA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:06:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-02-27T16:06:05.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "REYNA SILVIANA RODRIGUEZ CABRERA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 13376688,
+                    "nombre": "SALVADOR",
+                    "paterno": "COLIN",
+                    "materno": "COLIN",
+                    "nombreBuscar": "SALVADOR COLIN COLIN",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:06:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-03-20T18:46:12.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "SALVADOR COLIN COLIN",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 13376689,
+                    "nombre": "SALVADOR",
+                    "paterno": "GOMEZ",
+                    "materno": "RAMIREZ",
+                    "nombreBuscar": "SALVADOR GOMEZ RAMIREZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2025-02-27T16:06:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2025-02-27T16:06:05.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "SALVADOR GOMEZ RAMIREZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
+}

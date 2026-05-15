@@ -1,0 +1,97 @@
+{
+    "datetime": "12/05/2026 13:04:06",
+    "request-id": "528d580a-6658-4354-bf44-27fec1d1a3a4",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 5401868,
+            "referenciaId": 5401868,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2023-03-01 11:24:38",
+            "label": "222/2023--EXHORTO",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "487",
+            "children": [
+                {
+                    "key": "60230895_7",
+                    "referenciaId": 60230895,
+                    "icon": "letter-d",
+                    "parent": 5401868,
+                    "data": "2023-04-25 09:33:58",
+                    "label": "25-04-2023-DILIGENCIA-2694/2023-NOTIFICACION",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "58645789_1",
+                    "referenciaId": 58645789,
+                    "icon": "letter-p",
+                    "parent": 5401868,
+                    "data": "2023-03-01 11:33:02",
+                    "label": "01-03-2023-PROMOCION-4475/2023-AUTORIZA PROFESIONISTA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "58696113_2",
+                            "referenciaId": 58696113,
+                            "icon": "letter-a",
+                            "parent": "58645789_1",
+                            "data": "2023-03-03 11:17:57",
+                            "label": "03-03-2023-ACUERDO-4732/2023-AUTORIZA PROFESIONISTA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "60230990_5",
+                                    "referenciaId": 60230990,
+                                    "icon": "letter-o",
+                                    "parent": "58696113_2",
+                                    "data": "2023-04-25 09:35:09",
+                                    "label": "25-04-2023-OFICIO-1767/2023-JUZGADO SEGUNDO DE LO FAM",
+                                    "cveTipoActuacion": 5,
+                                    "color": "#000000",
+                                    "idFormulario": "490",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "58645014_1",
+                    "referenciaId": 58645014,
+                    "icon": "letter-p",
+                    "parent": 5401868,
+                    "data": "2023-03-01 11:24:38",
+                    "label": "01-03-2023-PROMOCION-4474/2023-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "58690057_2",
+                            "referenciaId": 58690057,
+                            "icon": "letter-a",
+                            "parent": "58645014_1",
+                            "data": "2023-03-03 10:11:46",
+                            "label": "03-03-2023-ACUERDO-4707/2023-EXHORTOS INICIALES",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

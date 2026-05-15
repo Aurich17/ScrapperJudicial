@@ -1,0 +1,158 @@
+{% extends 'scraper/base.html' %}
+
+{% block content %}
+
+<div class="container-fluid py-4">
+
+    <!-- BOTON VOLVER -->
+
+    <div class="mb-4">
+
+        <a
+            href="{% url 'lista_expedientes' %}"
+            class="btn btn-outline-secondary"
+        >
+            ← Volver
+        </a>
+
+    </div>
+
+    <!-- INFORMACION DEL EXPEDIENTE -->
+
+    <div class="card shadow-sm border-0 mb-4">
+
+        <div class="card-body">
+
+            <div class="d-flex justify-content-between align-items-start flex-wrap gap-3 mb-4">
+
+                <div>
+
+                    <h2 class="fw-bold mb-2">
+
+                        Expediente {{ expediente.numero }}/{{ expediente.anio }}
+
+                    </h2>
+
+                    <span class="badge bg-primary fs-6">
+
+                        {{ expediente.nodos.count }} actuaciones
+
+                    </span>
+
+                </div>
+
+            </div>
+
+            <div class="row g-4">
+
+                <div class="col-md-6">
+
+                    <div class="border rounded p-3 bg-light h-100">
+
+                        <h5 class="mb-3">
+
+                            Información de las Partes
+
+                        </h5>
+
+                        <p class="mb-3">
+
+                            <strong>Actor:</strong>
+
+                            <br>
+
+                            {{ expediente.actor|default:"Sin información" }}
+
+                        </p>
+
+                        <p class="mb-0">
+
+                            <strong>Demandado:</strong>
+
+                            <br>
+
+                            {{ expediente.demandado|default:"Sin información" }}
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="border rounded p-3 bg-light h-100">
+
+                        <h5 class="mb-3">
+
+                            Información Judicial
+
+                        </h5>
+
+                        <p class="mb-3">
+
+                            <strong>Juicio:</strong>
+
+                            <br>
+
+                            {{ expediente.juicio|default:"Sin información" }}
+
+                        </p>
+
+                        <p class="mb-0">
+
+                            <strong>Juzgado:</strong>
+
+                            <br>
+
+                            {{ expediente.juzgado }}
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- ARBOL JUDICIAL -->
+
+    <div class="card shadow-sm border-0">
+
+        <div class="card-body">
+
+            <div class="d-flex align-items-center justify-content-between mb-4">
+
+                <h3 class="fw-bold mb-0">
+
+                    Árbol Judicial
+
+                </h3>
+
+            </div>
+
+            {% if nodos_raiz %}
+
+                {% include 'scraper/components/nodo_arbol.html' with nodos=nodos_raiz expediente=expediente %}
+
+            {% else %}
+
+                <div class="alert alert-secondary mb-0">
+
+                    Este expediente no tiene actuaciones registradas.
+
+                </div>
+
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

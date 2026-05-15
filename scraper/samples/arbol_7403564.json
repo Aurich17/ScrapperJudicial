@@ -1,0 +1,60 @@
+{
+    "datetime": "12/05/2026 12:57:34",
+    "request-id": "0f2627bc-68f9-498c-82fa-bf2e3f492ee0",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 7403564,
+            "referenciaId": 7403564,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2026-04-11 18:20:07",
+            "label": "291/2026--DEMANDA ELECTRONICA",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": [
+                {
+                    "key": "94780860_1",
+                    "referenciaId": 94780860,
+                    "icon": "letter-p",
+                    "parent": 7403564,
+                    "data": "2026-04-11 18:20:07",
+                    "label": "11-04-2026-PROMOCION-4806/2026-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "94843941_2",
+                            "referenciaId": 94843941,
+                            "icon": "letter-a",
+                            "parent": "94780860_1",
+                            "data": "2026-04-14 07:19:05",
+                            "label": "14-04-2026-ACUERDO-4967/2026-ORDENA PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "95530518_6",
+                                    "referenciaId": 95530518,
+                                    "icon": "file-description",
+                                    "parent": "94843941_2",
+                                    "data": "2026-04-30 01:59:52",
+                                    "label": "30-04-2026-NOTIFICACION-2222/2026-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

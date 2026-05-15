@@ -1,0 +1,1591 @@
+{
+    "datetime": "12/05/2026 13:11:19",
+    "request-id": "1b7a808a-9f61-45df-8903-c9da8a3a5230",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 208407508,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407508.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407508.pdf"
+        },
+        {
+            "idImagen": 208407509,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407509.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407509.pdf"
+        },
+        {
+            "idImagen": 208407510,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407510.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407510.pdf"
+        },
+        {
+            "idImagen": 208407511,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407511.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407511.pdf"
+        },
+        {
+            "idImagen": 208407512,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407512.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407512.pdf"
+        },
+        {
+            "idImagen": 208407513,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407513.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407513.pdf"
+        },
+        {
+            "idImagen": 208407514,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407514.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407514.pdf"
+        },
+        {
+            "idImagen": 208407515,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407515.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407515.pdf"
+        },
+        {
+            "idImagen": 208407516,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407516.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407516.pdf"
+        },
+        {
+            "idImagen": 208407517,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407517.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407517.pdf"
+        },
+        {
+            "idImagen": 208407518,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407518.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407518.pdf"
+        },
+        {
+            "idImagen": 208407519,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407519.pdf",
+            "posicion": 12,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407519.pdf"
+        },
+        {
+            "idImagen": 208407520,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407520.pdf",
+            "posicion": 13,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407520.pdf"
+        },
+        {
+            "idImagen": 208407521,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407521.pdf",
+            "posicion": 14,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407521.pdf"
+        },
+        {
+            "idImagen": 208407522,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407522.pdf",
+            "posicion": 15,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407522.pdf"
+        },
+        {
+            "idImagen": 208407524,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407524.pdf",
+            "posicion": 16,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407524.pdf"
+        },
+        {
+            "idImagen": 208407525,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407525.pdf",
+            "posicion": 17,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407525.pdf"
+        },
+        {
+            "idImagen": 208407526,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407526.pdf",
+            "posicion": 18,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407526.pdf"
+        },
+        {
+            "idImagen": 208407527,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407527.pdf",
+            "posicion": 19,
+            "fechaRegistro": "2022-03-08 10:41:38",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407527.pdf"
+        },
+        {
+            "idImagen": 208407528,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407528.pdf",
+            "posicion": 20,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407528.pdf"
+        },
+        {
+            "idImagen": 208407529,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407529.pdf",
+            "posicion": 21,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407529.pdf"
+        },
+        {
+            "idImagen": 208407530,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407530.pdf",
+            "posicion": 22,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407530.pdf"
+        },
+        {
+            "idImagen": 208407531,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407531.pdf",
+            "posicion": 23,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407531.pdf"
+        },
+        {
+            "idImagen": 208407532,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407532.pdf",
+            "posicion": 24,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407532.pdf"
+        },
+        {
+            "idImagen": 208407533,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407533.pdf",
+            "posicion": 25,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407533.pdf"
+        },
+        {
+            "idImagen": 208407534,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407534.pdf",
+            "posicion": 26,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407534.pdf"
+        },
+        {
+            "idImagen": 208407535,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407535.pdf",
+            "posicion": 27,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407535.pdf"
+        },
+        {
+            "idImagen": 208407536,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407536.pdf",
+            "posicion": 28,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407536.pdf"
+        },
+        {
+            "idImagen": 208407537,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407537.pdf",
+            "posicion": 29,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407537.pdf"
+        },
+        {
+            "idImagen": 208407538,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407538.pdf",
+            "posicion": 30,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407538.pdf"
+        },
+        {
+            "idImagen": 208407539,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407539.pdf",
+            "posicion": 31,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407539.pdf"
+        },
+        {
+            "idImagen": 208407540,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407540.pdf",
+            "posicion": 32,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407540.pdf"
+        },
+        {
+            "idImagen": 208407541,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407541.pdf",
+            "posicion": 33,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407541.pdf"
+        },
+        {
+            "idImagen": 208407542,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407542.pdf",
+            "posicion": 34,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407542.pdf"
+        },
+        {
+            "idImagen": 208407543,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407543.pdf",
+            "posicion": 35,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407543.pdf"
+        },
+        {
+            "idImagen": 208407544,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407544.pdf",
+            "posicion": 36,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407544.pdf"
+        },
+        {
+            "idImagen": 208407545,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407545.pdf",
+            "posicion": 37,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407545.pdf"
+        },
+        {
+            "idImagen": 208407546,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407546.pdf",
+            "posicion": 38,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407546.pdf"
+        },
+        {
+            "idImagen": 208407547,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407547.pdf",
+            "posicion": 39,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407547.pdf"
+        },
+        {
+            "idImagen": 208407548,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407548.pdf",
+            "posicion": 40,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407548.pdf"
+        },
+        {
+            "idImagen": 208407549,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407549.pdf",
+            "posicion": 41,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407549.pdf"
+        },
+        {
+            "idImagen": 208407550,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407550.pdf",
+            "posicion": 42,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407550.pdf"
+        },
+        {
+            "idImagen": 208407551,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407551.pdf",
+            "posicion": 43,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407551.pdf"
+        },
+        {
+            "idImagen": 208407552,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407552.pdf",
+            "posicion": 44,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407552.pdf"
+        },
+        {
+            "idImagen": 208407553,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407553.pdf",
+            "posicion": 45,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407553.pdf"
+        },
+        {
+            "idImagen": 208407554,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407554.pdf",
+            "posicion": 46,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407554.pdf"
+        },
+        {
+            "idImagen": 208407555,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407555.pdf",
+            "posicion": 47,
+            "fechaRegistro": "2022-03-08 10:41:39",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407555.pdf"
+        },
+        {
+            "idImagen": 208407556,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407556.pdf",
+            "posicion": 48,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407556.pdf"
+        },
+        {
+            "idImagen": 208407557,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407557.pdf",
+            "posicion": 49,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407557.pdf"
+        },
+        {
+            "idImagen": 208407558,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407558.pdf",
+            "posicion": 50,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407558.pdf"
+        },
+        {
+            "idImagen": 208407559,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407559.pdf",
+            "posicion": 51,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407559.pdf"
+        },
+        {
+            "idImagen": 208407560,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407560.pdf",
+            "posicion": 52,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407560.pdf"
+        },
+        {
+            "idImagen": 208407561,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407561.pdf",
+            "posicion": 53,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407561.pdf"
+        },
+        {
+            "idImagen": 208407562,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407562.pdf",
+            "posicion": 54,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407562.pdf"
+        },
+        {
+            "idImagen": 208407563,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407563.pdf",
+            "posicion": 55,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407563.pdf"
+        },
+        {
+            "idImagen": 208407564,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407564.pdf",
+            "posicion": 56,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407564.pdf"
+        },
+        {
+            "idImagen": 208407565,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407565.pdf",
+            "posicion": 57,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407565.pdf"
+        },
+        {
+            "idImagen": 208407566,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407566.pdf",
+            "posicion": 58,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407566.pdf"
+        },
+        {
+            "idImagen": 208407567,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407567.pdf",
+            "posicion": 59,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407567.pdf"
+        },
+        {
+            "idImagen": 208407568,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407568.pdf",
+            "posicion": 60,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407568.pdf"
+        },
+        {
+            "idImagen": 208407569,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407569.pdf",
+            "posicion": 61,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407569.pdf"
+        },
+        {
+            "idImagen": 208407570,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407570.pdf",
+            "posicion": 62,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407570.pdf"
+        },
+        {
+            "idImagen": 208407571,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407571.pdf",
+            "posicion": 63,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407571.pdf"
+        },
+        {
+            "idImagen": 208407572,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407572.pdf",
+            "posicion": 64,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407572.pdf"
+        },
+        {
+            "idImagen": 208407573,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407573.pdf",
+            "posicion": 65,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407573.pdf"
+        },
+        {
+            "idImagen": 208407574,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407574.pdf",
+            "posicion": 66,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407574.pdf"
+        },
+        {
+            "idImagen": 208407575,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407575.pdf",
+            "posicion": 67,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407575.pdf"
+        },
+        {
+            "idImagen": 208407576,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407576.pdf",
+            "posicion": 68,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407576.pdf"
+        },
+        {
+            "idImagen": 208407577,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407577.pdf",
+            "posicion": 69,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407577.pdf"
+        },
+        {
+            "idImagen": 208407578,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407578.pdf",
+            "posicion": 70,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407578.pdf"
+        },
+        {
+            "idImagen": 208407579,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407579.pdf",
+            "posicion": 71,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407579.pdf"
+        },
+        {
+            "idImagen": 208407580,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407580.pdf",
+            "posicion": 72,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407580.pdf"
+        },
+        {
+            "idImagen": 208407581,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407581.pdf",
+            "posicion": 73,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407581.pdf"
+        },
+        {
+            "idImagen": 208407582,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407582.pdf",
+            "posicion": 74,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407582.pdf"
+        },
+        {
+            "idImagen": 208407583,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407583.pdf",
+            "posicion": 75,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407583.pdf"
+        },
+        {
+            "idImagen": 208407584,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407584.pdf",
+            "posicion": 76,
+            "fechaRegistro": "2022-03-08 10:41:40",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407584.pdf"
+        },
+        {
+            "idImagen": 208407585,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407585.pdf",
+            "posicion": 77,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407585.pdf"
+        },
+        {
+            "idImagen": 208407586,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407586.pdf",
+            "posicion": 78,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407586.pdf"
+        },
+        {
+            "idImagen": 208407587,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407587.pdf",
+            "posicion": 79,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407587.pdf"
+        },
+        {
+            "idImagen": 208407588,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407588.pdf",
+            "posicion": 80,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407588.pdf"
+        },
+        {
+            "idImagen": 208407589,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407589.pdf",
+            "posicion": 81,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407589.pdf"
+        },
+        {
+            "idImagen": 208407590,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407590.pdf",
+            "posicion": 82,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407590.pdf"
+        },
+        {
+            "idImagen": 208407591,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407591.pdf",
+            "posicion": 83,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407591.pdf"
+        },
+        {
+            "idImagen": 208407592,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407592.pdf",
+            "posicion": 84,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407592.pdf"
+        },
+        {
+            "idImagen": 208407593,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407593.pdf",
+            "posicion": 85,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407593.pdf"
+        },
+        {
+            "idImagen": 208407594,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407594.pdf",
+            "posicion": 86,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407594.pdf"
+        },
+        {
+            "idImagen": 208407595,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407595.pdf",
+            "posicion": 87,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407595.pdf"
+        },
+        {
+            "idImagen": 208407596,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407596.pdf",
+            "posicion": 88,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407596.pdf"
+        },
+        {
+            "idImagen": 208407597,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407597.pdf",
+            "posicion": 89,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407597.pdf"
+        },
+        {
+            "idImagen": 208407598,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407598.pdf",
+            "posicion": 90,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407598.pdf"
+        },
+        {
+            "idImagen": 208407601,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407601.pdf",
+            "posicion": 91,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407601.pdf"
+        },
+        {
+            "idImagen": 208407602,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407602.pdf",
+            "posicion": 92,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407602.pdf"
+        },
+        {
+            "idImagen": 208407603,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407603.pdf",
+            "posicion": 93,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407603.pdf"
+        },
+        {
+            "idImagen": 208407604,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407604.pdf",
+            "posicion": 94,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407604.pdf"
+        },
+        {
+            "idImagen": 208407605,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407605.pdf",
+            "posicion": 95,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407605.pdf"
+        },
+        {
+            "idImagen": 208407606,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407606.pdf",
+            "posicion": 96,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407606.pdf"
+        },
+        {
+            "idImagen": 208407607,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407607.pdf",
+            "posicion": 97,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407607.pdf"
+        },
+        {
+            "idImagen": 208407608,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407608.pdf",
+            "posicion": 98,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407608.pdf"
+        },
+        {
+            "idImagen": 208407609,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407609.pdf",
+            "posicion": 99,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407609.pdf"
+        },
+        {
+            "idImagen": 208407610,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407610.pdf",
+            "posicion": 100,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407610.pdf"
+        },
+        {
+            "idImagen": 208407611,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407611.pdf",
+            "posicion": 101,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407611.pdf"
+        },
+        {
+            "idImagen": 208407612,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407612.pdf",
+            "posicion": 102,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407612.pdf"
+        },
+        {
+            "idImagen": 208407613,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407613.pdf",
+            "posicion": 103,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407613.pdf"
+        },
+        {
+            "idImagen": 208407614,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407614.pdf",
+            "posicion": 104,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407614.pdf"
+        },
+        {
+            "idImagen": 208407615,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407615.pdf",
+            "posicion": 105,
+            "fechaRegistro": "2022-03-08 10:41:41",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407615.pdf"
+        },
+        {
+            "idImagen": 208407616,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407616.pdf",
+            "posicion": 106,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407616.pdf"
+        },
+        {
+            "idImagen": 208407617,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407617.pdf",
+            "posicion": 107,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407617.pdf"
+        },
+        {
+            "idImagen": 208407618,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407618.pdf",
+            "posicion": 108,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407618.pdf"
+        },
+        {
+            "idImagen": 208407619,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407619.pdf",
+            "posicion": 109,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407619.pdf"
+        },
+        {
+            "idImagen": 208407620,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407620.pdf",
+            "posicion": 110,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407620.pdf"
+        },
+        {
+            "idImagen": 208407621,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407621.pdf",
+            "posicion": 111,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407621.pdf"
+        },
+        {
+            "idImagen": 208407622,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407622.pdf",
+            "posicion": 112,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407622.pdf"
+        },
+        {
+            "idImagen": 208407623,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407623.pdf",
+            "posicion": 113,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407623.pdf"
+        },
+        {
+            "idImagen": 208407624,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407624.pdf",
+            "posicion": 114,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407624.pdf"
+        },
+        {
+            "idImagen": 208407625,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407625.pdf",
+            "posicion": 115,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407625.pdf"
+        },
+        {
+            "idImagen": 208407627,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407627.pdf",
+            "posicion": 116,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407627.pdf"
+        },
+        {
+            "idImagen": 208407628,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407628.pdf",
+            "posicion": 117,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407628.pdf"
+        },
+        {
+            "idImagen": 208407629,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407629.pdf",
+            "posicion": 118,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407629.pdf"
+        },
+        {
+            "idImagen": 208407630,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407630.pdf",
+            "posicion": 119,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407630.pdf"
+        },
+        {
+            "idImagen": 208407631,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407631.pdf",
+            "posicion": 120,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407631.pdf"
+        },
+        {
+            "idImagen": 208407632,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407632.pdf",
+            "posicion": 121,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407632.pdf"
+        },
+        {
+            "idImagen": 208407633,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407633.pdf",
+            "posicion": 122,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407633.pdf"
+        },
+        {
+            "idImagen": 208407634,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407634.pdf",
+            "posicion": 123,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407634.pdf"
+        },
+        {
+            "idImagen": 208407635,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407635.pdf",
+            "posicion": 124,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407635.pdf"
+        },
+        {
+            "idImagen": 208407636,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407636.pdf",
+            "posicion": 125,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407636.pdf"
+        },
+        {
+            "idImagen": 208407637,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407637.pdf",
+            "posicion": 126,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407637.pdf"
+        },
+        {
+            "idImagen": 208407638,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407638.pdf",
+            "posicion": 127,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407638.pdf"
+        },
+        {
+            "idImagen": 208407639,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407639.pdf",
+            "posicion": 128,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407639.pdf"
+        },
+        {
+            "idImagen": 208407640,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407640.pdf",
+            "posicion": 129,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407640.pdf"
+        },
+        {
+            "idImagen": 208407642,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407642.pdf",
+            "posicion": 130,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407642.pdf"
+        },
+        {
+            "idImagen": 208407643,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407643.pdf",
+            "posicion": 131,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407643.pdf"
+        },
+        {
+            "idImagen": 208407644,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407644.pdf",
+            "posicion": 132,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407644.pdf"
+        },
+        {
+            "idImagen": 208407645,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407645.pdf",
+            "posicion": 133,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407645.pdf"
+        },
+        {
+            "idImagen": 208407646,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407646.pdf",
+            "posicion": 134,
+            "fechaRegistro": "2022-03-08 10:41:42",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407646.pdf"
+        },
+        {
+            "idImagen": 208407647,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407647.pdf",
+            "posicion": 135,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407647.pdf"
+        },
+        {
+            "idImagen": 208407648,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407648.pdf",
+            "posicion": 136,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407648.pdf"
+        },
+        {
+            "idImagen": 208407649,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407649.pdf",
+            "posicion": 137,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407649.pdf"
+        },
+        {
+            "idImagen": 208407651,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407651.pdf",
+            "posicion": 138,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407651.pdf"
+        },
+        {
+            "idImagen": 208407653,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407653.pdf",
+            "posicion": 139,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407653.pdf"
+        },
+        {
+            "idImagen": 208407655,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407655.pdf",
+            "posicion": 140,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407655.pdf"
+        },
+        {
+            "idImagen": 208407657,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407657.pdf",
+            "posicion": 141,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407657.pdf"
+        },
+        {
+            "idImagen": 208407658,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407658.pdf",
+            "posicion": 142,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407658.pdf"
+        },
+        {
+            "idImagen": 208407659,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407659.pdf",
+            "posicion": 143,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407659.pdf"
+        },
+        {
+            "idImagen": 208407660,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407660.pdf",
+            "posicion": 144,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407660.pdf"
+        },
+        {
+            "idImagen": 208407661,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407661.pdf",
+            "posicion": 145,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407661.pdf"
+        },
+        {
+            "idImagen": 208407662,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407662.pdf",
+            "posicion": 146,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407662.pdf"
+        },
+        {
+            "idImagen": 208407663,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407663.pdf",
+            "posicion": 147,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407663.pdf"
+        },
+        {
+            "idImagen": 208407664,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407664.pdf",
+            "posicion": 148,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407664.pdf"
+        },
+        {
+            "idImagen": 208407665,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407665.pdf",
+            "posicion": 149,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407665.pdf"
+        },
+        {
+            "idImagen": 208407666,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407666.pdf",
+            "posicion": 150,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407666.pdf"
+        },
+        {
+            "idImagen": 208407667,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407667.pdf",
+            "posicion": 151,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407667.pdf"
+        },
+        {
+            "idImagen": 208407668,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407668.pdf",
+            "posicion": 152,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407668.pdf"
+        },
+        {
+            "idImagen": 208407669,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407669.pdf",
+            "posicion": 153,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407669.pdf"
+        },
+        {
+            "idImagen": 208407670,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407670.pdf",
+            "posicion": 154,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407670.pdf"
+        },
+        {
+            "idImagen": 208407671,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407671.pdf",
+            "posicion": 155,
+            "fechaRegistro": "2022-03-08 10:41:43",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407671.pdf"
+        },
+        {
+            "idImagen": 208407672,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407672.pdf",
+            "posicion": 156,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407672.pdf"
+        },
+        {
+            "idImagen": 208407673,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407673.pdf",
+            "posicion": 157,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407673.pdf"
+        },
+        {
+            "idImagen": 208407674,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407674.pdf",
+            "posicion": 158,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407674.pdf"
+        },
+        {
+            "idImagen": 208407675,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407675.pdf",
+            "posicion": 159,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407675.pdf"
+        },
+        {
+            "idImagen": 208407676,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407676.pdf",
+            "posicion": 160,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407676.pdf"
+        },
+        {
+            "idImagen": 208407677,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407677.pdf",
+            "posicion": 161,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407677.pdf"
+        },
+        {
+            "idImagen": 208407678,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407678.pdf",
+            "posicion": 162,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407678.pdf"
+        },
+        {
+            "idImagen": 208407679,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407679.pdf",
+            "posicion": 163,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407679.pdf"
+        },
+        {
+            "idImagen": 208407680,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407680.pdf",
+            "posicion": 164,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407680.pdf"
+        },
+        {
+            "idImagen": 208407681,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407681.pdf",
+            "posicion": 165,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407681.pdf"
+        },
+        {
+            "idImagen": 208407682,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407682.pdf",
+            "posicion": 166,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407682.pdf"
+        },
+        {
+            "idImagen": 208407683,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407683.pdf",
+            "posicion": 167,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407683.pdf"
+        },
+        {
+            "idImagen": 208407684,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407684.pdf",
+            "posicion": 168,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407684.pdf"
+        },
+        {
+            "idImagen": 208407685,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407685.pdf",
+            "posicion": 169,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407685.pdf"
+        },
+        {
+            "idImagen": 208407686,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407686.pdf",
+            "posicion": 170,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407686.pdf"
+        },
+        {
+            "idImagen": 208407688,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407688.pdf",
+            "posicion": 171,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407688.pdf"
+        },
+        {
+            "idImagen": 208407689,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407689.pdf",
+            "posicion": 172,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407689.pdf"
+        },
+        {
+            "idImagen": 208407690,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407690.pdf",
+            "posicion": 173,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407690.pdf"
+        },
+        {
+            "idImagen": 208407691,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407691.pdf",
+            "posicion": 174,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407691.pdf"
+        },
+        {
+            "idImagen": 208407692,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407692.pdf",
+            "posicion": 175,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407692.pdf"
+        },
+        {
+            "idImagen": 208407693,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407693.pdf",
+            "posicion": 176,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407693.pdf"
+        },
+        {
+            "idImagen": 208407694,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407694.pdf",
+            "posicion": 177,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407694.pdf"
+        },
+        {
+            "idImagen": 208407695,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407695.pdf",
+            "posicion": 178,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407695.pdf"
+        },
+        {
+            "idImagen": 208407696,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407696.pdf",
+            "posicion": 179,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407696.pdf"
+        },
+        {
+            "idImagen": 208407697,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407697.pdf",
+            "posicion": 180,
+            "fechaRegistro": "2022-03-08 10:41:44",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407697.pdf"
+        },
+        {
+            "idImagen": 208407698,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407698.pdf",
+            "posicion": 181,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407698.pdf"
+        },
+        {
+            "idImagen": 208407699,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407699.pdf",
+            "posicion": 182,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407699.pdf"
+        },
+        {
+            "idImagen": 208407700,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407700.pdf",
+            "posicion": 183,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407700.pdf"
+        },
+        {
+            "idImagen": 208407701,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407701.pdf",
+            "posicion": 184,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407701.pdf"
+        },
+        {
+            "idImagen": 208407702,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407702.pdf",
+            "posicion": 185,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407702.pdf"
+        },
+        {
+            "idImagen": 208407703,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407703.pdf",
+            "posicion": 186,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407703.pdf"
+        },
+        {
+            "idImagen": 208407704,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407704.pdf",
+            "posicion": 187,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407704.pdf"
+        },
+        {
+            "idImagen": 208407705,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407705.pdf",
+            "posicion": 188,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407705.pdf"
+        },
+        {
+            "idImagen": 208407706,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407706.pdf",
+            "posicion": 189,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407706.pdf"
+        },
+        {
+            "idImagen": 208407708,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407708.pdf",
+            "posicion": 190,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407708.pdf"
+        },
+        {
+            "idImagen": 208407710,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407710.pdf",
+            "posicion": 191,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407710.pdf"
+        },
+        {
+            "idImagen": 208407712,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407712.pdf",
+            "posicion": 192,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407712.pdf"
+        },
+        {
+            "idImagen": 208407714,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407714.pdf",
+            "posicion": 193,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407714.pdf"
+        },
+        {
+            "idImagen": 208407716,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407716.pdf",
+            "posicion": 194,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407716.pdf"
+        },
+        {
+            "idImagen": 208407718,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407718.pdf",
+            "posicion": 195,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407718.pdf"
+        },
+        {
+            "idImagen": 208407725,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407725.pdf",
+            "posicion": 196,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407725.pdf"
+        },
+        {
+            "idImagen": 208407727,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407727.pdf",
+            "posicion": 197,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407727.pdf"
+        },
+        {
+            "idImagen": 208407729,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407729.pdf",
+            "posicion": 198,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407729.pdf"
+        },
+        {
+            "idImagen": 208407731,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407731.pdf",
+            "posicion": 199,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407731.pdf"
+        },
+        {
+            "idImagen": 208407732,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407732.pdf",
+            "posicion": 200,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407732.pdf"
+        },
+        {
+            "idImagen": 208407733,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407733.pdf",
+            "posicion": 201,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407733.pdf"
+        },
+        {
+            "idImagen": 208407734,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407734.pdf",
+            "posicion": 202,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407734.pdf"
+        },
+        {
+            "idImagen": 208407735,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407735.pdf",
+            "posicion": 203,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407735.pdf"
+        },
+        {
+            "idImagen": 208407736,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407736.pdf",
+            "posicion": 204,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407736.pdf"
+        },
+        {
+            "idImagen": 208407737,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407737.pdf",
+            "posicion": 205,
+            "fechaRegistro": "2022-03-08 10:41:45",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407737.pdf"
+        },
+        {
+            "idImagen": 208407738,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407738.pdf",
+            "posicion": 206,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407738.pdf"
+        },
+        {
+            "idImagen": 208407739,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407739.pdf",
+            "posicion": 207,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407739.pdf"
+        },
+        {
+            "idImagen": 208407741,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407741.pdf",
+            "posicion": 208,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407741.pdf"
+        },
+        {
+            "idImagen": 208407743,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407743.pdf",
+            "posicion": 209,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407743.pdf"
+        },
+        {
+            "idImagen": 208407745,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407745.pdf",
+            "posicion": 210,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407745.pdf"
+        },
+        {
+            "idImagen": 208407747,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407747.pdf",
+            "posicion": 211,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407747.pdf"
+        },
+        {
+            "idImagen": 208407748,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407748.pdf",
+            "posicion": 212,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407748.pdf"
+        },
+        {
+            "idImagen": 208407750,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407750.pdf",
+            "posicion": 213,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407750.pdf"
+        },
+        {
+            "idImagen": 208407751,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407751.pdf",
+            "posicion": 214,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407751.pdf"
+        },
+        {
+            "idImagen": 208407752,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407752.pdf",
+            "posicion": 215,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407752.pdf"
+        },
+        {
+            "idImagen": 208407753,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407753.pdf",
+            "posicion": 216,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407753.pdf"
+        },
+        {
+            "idImagen": 208407755,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407755.pdf",
+            "posicion": 217,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407755.pdf"
+        },
+        {
+            "idImagen": 208407756,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407756.pdf",
+            "posicion": 218,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407756.pdf"
+        },
+        {
+            "idImagen": 208407757,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407757.pdf",
+            "posicion": 219,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407757.pdf"
+        },
+        {
+            "idImagen": 208407758,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407758.pdf",
+            "posicion": 220,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407758.pdf"
+        },
+        {
+            "idImagen": 208407759,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407759.pdf",
+            "posicion": 221,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407759.pdf"
+        },
+        {
+            "idImagen": 208407760,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407760.pdf",
+            "posicion": 222,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407760.pdf"
+        },
+        {
+            "idImagen": 208407761,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407761.pdf",
+            "posicion": 223,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407761.pdf"
+        },
+        {
+            "idImagen": 208407762,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407762.pdf",
+            "posicion": 224,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407762.pdf"
+        },
+        {
+            "idImagen": 208407763,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407763.pdf",
+            "posicion": 225,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407763.pdf"
+        },
+        {
+            "idImagen": 208407764,
+            "ruta": "imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407764.pdf",
+            "posicion": 226,
+            "fechaRegistro": "2022-03-08 10:41:46",
+            "path": "/var/www/storage/app/public/imagenes/texcoco/civil/666/2022/expediente/948/EXPE208407764.pdf"
+        }
+    ]
+}

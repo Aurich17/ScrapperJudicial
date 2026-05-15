@@ -1,0 +1,142 @@
+{
+    "datetime": "13/05/2026 13:34:59",
+    "request-id": "dddb98e4-8a19-4866-891b-88d921f83eeb",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 7292262,
+            "numero": 82,
+            "anio": "2026",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10218,
+            "cveMateria": 1,
+            "fechaRegistro": "2026-01-15T21:08:48.000000Z",
+            "fechaRadicacion": "2026-01-15 15:08:48",
+            "cveUsuario": 8131,
+            "observaciones": "un interrogatorio  en dos hojas \nun pliego de posiciones \nun contrato de cesion de derechos de fecha 31 de diciembre de 2013 con firmas autografas\nun certificado de inscripcion \nun asolicitud de certificado de inscripcion \nun comprobante de pago \nuna solictud de certificado de inscripcion en copia simple sellado de entregado \nun volante universal \ndos comprobantes de pago sobre impuestos inmobiliarios \nun comprobante de pago \nuna manifestacion de valor catastral \n35 recibos oficiales \n2 recibos de pago \n8 recibos de pago \nun comprobante fiscal \nuna escritura dieciseis mil doscientos cincuenta y dos \ndos traslados.",
+            "cveEstatus": 1,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 608,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": null,
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 6,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "demanda inicia \ncero papel \nsumario de usucapion",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10218,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10218,
+                "DesJuz": "JUZGADO PRIMERO CIVIL Y DE EXTINCION DE DOMINIO DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS",
+                "desCorta": "1 Civ y Ext Dom Ecatepec"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 54,
+            "descModalidad": "PROCEDIMIENTO ESPECIAL"
+        },
+        "juicio": {
+            "cveLiti": 678,
+            "descLiti": "USUCAPIÓN SUMARIO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 14322963,
+                    "nombre": "REYNA SILVIANA",
+                    "paterno": "RODRIGUEZ",
+                    "materno": "CABRERA",
+                    "nombreBuscar": "REYNA SILVIANA RODRIGUEZ CABRERA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-01-15T20:08:04.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-01-15T20:08:04.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "REYNA SILVIANA RODRIGUEZ CABRERA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 14322964,
+                    "nombre": "SALVADOR",
+                    "paterno": "COLIN",
+                    "materno": "COLIN",
+                    "nombreBuscar": "SALVADOR COLIN COLIN",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-01-15T20:08:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-01-27T15:04:38.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "SALVADOR COLIN COLIN",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 14322965,
+                    "nombre": "INES",
+                    "paterno": "GOMEZ",
+                    "materno": "RAMIREZ",
+                    "nombreBuscar": "INES GOMEZ RAMIREZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-01-15T20:08:05.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-01-27T15:08:06.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "INES GOMEZ RAMIREZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
+}

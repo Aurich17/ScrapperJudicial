@@ -1,0 +1,123 @@
+{
+    "datetime": "12/05/2026 13:11:02",
+    "request-id": "b16ce6df-9cbd-4d6a-b4bd-c42f06c49b1b",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 6462477,
+            "referenciaId": 6462477,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2024-11-25 12:35:09",
+            "label": "1015/2024--PRUEBAS ACTORA",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "518",
+            "children": [
+                {
+                    "key": "79232508_1",
+                    "referenciaId": 79232508,
+                    "icon": "letter-p",
+                    "parent": 6462477,
+                    "data": "2024-12-13 08:40:18",
+                    "label": "13-12-2024-PROMOCION-21908/2024-AVALUO",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "79303276_2",
+                            "referenciaId": 79303276,
+                            "icon": "letter-a",
+                            "parent": "79232508_1",
+                            "data": "2024-12-16 12:04:18",
+                            "label": "16-12-2024-ACUERDO-22828/2024-EXHIBE DICTAMEN",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "78838442_1",
+                    "referenciaId": 78838442,
+                    "icon": "letter-p",
+                    "parent": 6462477,
+                    "data": "2024-12-02 12:40:19",
+                    "label": "02-12-2024-PROMOCION-21205/2024-ACEPTA CARGO",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "78884710_2",
+                            "referenciaId": 78884710,
+                            "icon": "letter-a",
+                            "parent": "78838442_1",
+                            "data": "2024-12-03 11:50:33",
+                            "label": "03-12-2024-ACUERDO-22003/2024-ACEPTA PERITO",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "78914500_6",
+                                    "referenciaId": 78914500,
+                                    "icon": "file-description",
+                                    "parent": "78884710_2",
+                                    "data": "2024-12-04 00:03:16",
+                                    "label": "04-12-2024-NOTIFICACION-19080/2024-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "78475162_1",
+                    "referenciaId": 78475162,
+                    "icon": "letter-p",
+                    "parent": 6462477,
+                    "data": "2024-11-21 11:38:55",
+                    "label": "21-11-2024-PROMOCION-20525/2024-SE OFRECEN PRUEBAS",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "78582326_2",
+                            "referenciaId": 78582326,
+                            "icon": "letter-a",
+                            "parent": "78475162_1",
+                            "data": "2024-11-25 12:35:09",
+                            "label": "25-11-2024-ACUERDO-21398/2024-OFRECER PRUEBAS",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "78608246_6",
+                                    "referenciaId": 78608246,
+                                    "icon": "file-description",
+                                    "parent": "78582326_2",
+                                    "data": "2024-11-25 23:32:43",
+                                    "label": "25-11-2024-NOTIFICACION-18630/2024-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

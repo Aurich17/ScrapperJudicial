@@ -1,0 +1,86 @@
+{
+    "datetime": "12/05/2026 12:51:27",
+    "request-id": "5d3148ae-aa8b-4e90-9f4e-e63d5c2262a1",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 379700133,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700133.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2025-02-25 10:11:19",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700133.pdf"
+        },
+        {
+            "idImagen": 379700136,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700136.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2025-02-25 10:11:19",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700136.pdf"
+        },
+        {
+            "idImagen": 379700138,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700138.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700138.pdf"
+        },
+        {
+            "idImagen": 379700141,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700141.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700141.pdf"
+        },
+        {
+            "idImagen": 379700144,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700144.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700144.pdf"
+        },
+        {
+            "idImagen": 379700145,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700145.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700145.pdf"
+        },
+        {
+            "idImagen": 379700146,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700146.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700146.pdf"
+        },
+        {
+            "idImagen": 379700149,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700149.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700149.pdf"
+        },
+        {
+            "idImagen": 379700150,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700150.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700150.pdf"
+        },
+        {
+            "idImagen": 379700151,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700151.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700151.pdf"
+        },
+        {
+            "idImagen": 379700157,
+            "ruta": "imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700157.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2025-02-25 10:11:20",
+            "path": "/var/www/storage/app/public/imagenesv2/ecatepec/civil/10218/2025/expediente/466/EXPE379700157.pdf"
+        }
+    ]
+}

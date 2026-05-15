@@ -1,0 +1,436 @@
+{
+    "datetime": "12/05/2026 13:08:09",
+    "request-id": "5d8fd4db-724f-4468-8dc5-9b14efb75b28",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "idImagen": 341888781,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888781.pdf",
+            "posicion": 1,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888781.pdf"
+        },
+        {
+            "idImagen": 341888782,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888782.pdf",
+            "posicion": 2,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888782.pdf"
+        },
+        {
+            "idImagen": 341888784,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888784.pdf",
+            "posicion": 3,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888784.pdf"
+        },
+        {
+            "idImagen": 341888785,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888785.pdf",
+            "posicion": 4,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888785.pdf"
+        },
+        {
+            "idImagen": 341888786,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888786.pdf",
+            "posicion": 5,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888786.pdf"
+        },
+        {
+            "idImagen": 341888789,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888789.pdf",
+            "posicion": 6,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888789.pdf"
+        },
+        {
+            "idImagen": 341888792,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888792.pdf",
+            "posicion": 7,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888792.pdf"
+        },
+        {
+            "idImagen": 341888795,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888795.pdf",
+            "posicion": 8,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888795.pdf"
+        },
+        {
+            "idImagen": 341888796,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888796.pdf",
+            "posicion": 9,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888796.pdf"
+        },
+        {
+            "idImagen": 341888798,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888798.pdf",
+            "posicion": 10,
+            "fechaRegistro": "2024-08-05 14:12:23",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888798.pdf"
+        },
+        {
+            "idImagen": 341888807,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888807.pdf",
+            "posicion": 11,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888807.pdf"
+        },
+        {
+            "idImagen": 341888808,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888808.pdf",
+            "posicion": 12,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888808.pdf"
+        },
+        {
+            "idImagen": 341888810,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888810.pdf",
+            "posicion": 13,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888810.pdf"
+        },
+        {
+            "idImagen": 341888811,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888811.pdf",
+            "posicion": 14,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888811.pdf"
+        },
+        {
+            "idImagen": 341888812,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888812.pdf",
+            "posicion": 15,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888812.pdf"
+        },
+        {
+            "idImagen": 341888813,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888813.pdf",
+            "posicion": 16,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888813.pdf"
+        },
+        {
+            "idImagen": 341888815,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888815.pdf",
+            "posicion": 17,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888815.pdf"
+        },
+        {
+            "idImagen": 341888818,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888818.pdf",
+            "posicion": 18,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888818.pdf"
+        },
+        {
+            "idImagen": 341888821,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888821.pdf",
+            "posicion": 19,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888821.pdf"
+        },
+        {
+            "idImagen": 341888824,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888824.pdf",
+            "posicion": 20,
+            "fechaRegistro": "2024-08-05 14:12:24",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888824.pdf"
+        },
+        {
+            "idImagen": 341888848,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888848.pdf",
+            "posicion": 21,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888848.pdf"
+        },
+        {
+            "idImagen": 341888852,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888852.pdf",
+            "posicion": 22,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888852.pdf"
+        },
+        {
+            "idImagen": 341888854,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888854.pdf",
+            "posicion": 23,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888854.pdf"
+        },
+        {
+            "idImagen": 341888855,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888855.pdf",
+            "posicion": 24,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888855.pdf"
+        },
+        {
+            "idImagen": 341888856,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888856.pdf",
+            "posicion": 25,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888856.pdf"
+        },
+        {
+            "idImagen": 341888857,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888857.pdf",
+            "posicion": 26,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888857.pdf"
+        },
+        {
+            "idImagen": 341888858,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888858.pdf",
+            "posicion": 27,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888858.pdf"
+        },
+        {
+            "idImagen": 341888859,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888859.pdf",
+            "posicion": 28,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888859.pdf"
+        },
+        {
+            "idImagen": 341888860,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888860.pdf",
+            "posicion": 29,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888860.pdf"
+        },
+        {
+            "idImagen": 341888861,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888861.pdf",
+            "posicion": 30,
+            "fechaRegistro": "2024-08-05 14:06:50",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888861.pdf"
+        },
+        {
+            "idImagen": 341888863,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888863.pdf",
+            "posicion": 31,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888863.pdf"
+        },
+        {
+            "idImagen": 341888867,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888867.pdf",
+            "posicion": 32,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888867.pdf"
+        },
+        {
+            "idImagen": 341888868,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888868.pdf",
+            "posicion": 33,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888868.pdf"
+        },
+        {
+            "idImagen": 341888869,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888869.pdf",
+            "posicion": 34,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888869.pdf"
+        },
+        {
+            "idImagen": 341888870,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888870.pdf",
+            "posicion": 35,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888870.pdf"
+        },
+        {
+            "idImagen": 341888872,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888872.pdf",
+            "posicion": 36,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888872.pdf"
+        },
+        {
+            "idImagen": 341888873,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888873.pdf",
+            "posicion": 37,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888873.pdf"
+        },
+        {
+            "idImagen": 341888874,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888874.pdf",
+            "posicion": 38,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888874.pdf"
+        },
+        {
+            "idImagen": 341888875,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888875.pdf",
+            "posicion": 39,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888875.pdf"
+        },
+        {
+            "idImagen": 341888876,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888876.pdf",
+            "posicion": 40,
+            "fechaRegistro": "2024-08-05 14:06:10",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888876.pdf"
+        },
+        {
+            "idImagen": 341888889,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888889.pdf",
+            "posicion": 41,
+            "fechaRegistro": "2024-08-05 14:06:11",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888889.pdf"
+        },
+        {
+            "idImagen": 341888890,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888890.pdf",
+            "posicion": 42,
+            "fechaRegistro": "2024-08-05 14:06:11",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888890.pdf"
+        },
+        {
+            "idImagen": 341888891,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888891.pdf",
+            "posicion": 43,
+            "fechaRegistro": "2024-08-05 14:06:11",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888891.pdf"
+        },
+        {
+            "idImagen": 341888914,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888914.pdf",
+            "posicion": 44,
+            "fechaRegistro": "2024-08-05 14:06:12",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888914.pdf"
+        },
+        {
+            "idImagen": 341888915,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888915.pdf",
+            "posicion": 45,
+            "fechaRegistro": "2024-08-05 14:06:12",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888915.pdf"
+        },
+        {
+            "idImagen": 341888916,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888916.pdf",
+            "posicion": 46,
+            "fechaRegistro": "2024-08-05 14:06:12",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888916.pdf"
+        },
+        {
+            "idImagen": 341888917,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888917.pdf",
+            "posicion": 47,
+            "fechaRegistro": "2024-08-05 14:06:12",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888917.pdf"
+        },
+        {
+            "idImagen": 341888926,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888926.pdf",
+            "posicion": 48,
+            "fechaRegistro": "2024-08-05 14:06:13",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888926.pdf"
+        },
+        {
+            "idImagen": 341888927,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888927.pdf",
+            "posicion": 49,
+            "fechaRegistro": "2024-08-05 14:06:13",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888927.pdf"
+        },
+        {
+            "idImagen": 341888928,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888928.pdf",
+            "posicion": 50,
+            "fechaRegistro": "2024-08-05 14:06:13",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888928.pdf"
+        },
+        {
+            "idImagen": 341888930,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888930.pdf",
+            "posicion": 51,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888930.pdf"
+        },
+        {
+            "idImagen": 341888931,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888931.pdf",
+            "posicion": 52,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888931.pdf"
+        },
+        {
+            "idImagen": 341888932,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888932.pdf",
+            "posicion": 53,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888932.pdf"
+        },
+        {
+            "idImagen": 341888933,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888933.pdf",
+            "posicion": 54,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888933.pdf"
+        },
+        {
+            "idImagen": 341888934,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888934.pdf",
+            "posicion": 55,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888934.pdf"
+        },
+        {
+            "idImagen": 341888935,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888935.pdf",
+            "posicion": 56,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888935.pdf"
+        },
+        {
+            "idImagen": 341888936,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888936.pdf",
+            "posicion": 57,
+            "fechaRegistro": "2024-08-05 14:12:29",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888936.pdf"
+        },
+        {
+            "idImagen": 341888937,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888937.pdf",
+            "posicion": 58,
+            "fechaRegistro": "2024-08-05 14:12:30",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888937.pdf"
+        },
+        {
+            "idImagen": 341888938,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888938.pdf",
+            "posicion": 59,
+            "fechaRegistro": "2024-08-05 14:12:30",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888938.pdf"
+        },
+        {
+            "idImagen": 341888939,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888939.pdf",
+            "posicion": 60,
+            "fechaRegistro": "2024-08-05 14:12:30",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888939.pdf"
+        },
+        {
+            "idImagen": 341888941,
+            "ruta": "imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888941.pdf",
+            "posicion": 61,
+            "fechaRegistro": "2024-08-05 14:12:30",
+            "path": "/var/www/storage/app/public/imagenesv2/tlalnepantla/civil/10099/2024/expediente/1015/EXPE341888941.pdf"
+        }
+    ]
+}

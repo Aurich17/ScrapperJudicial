@@ -1,0 +1,8 @@
+{
+    "datetime": "13/05/2026 13:37:59",
+    "request-id": "66af820a-ba87-4fb4-a70e-4c1b841c5814",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "Unauthorized",
+    "status": "success",
+    "data": "El token ha caducado."
+}

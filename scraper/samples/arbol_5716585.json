@@ -1,0 +1,434 @@
+{
+    "datetime": "12/05/2026 13:11:13",
+    "request-id": "c67c1b66-a26e-4a8f-8d47-e468cc96f4fa",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 5716585,
+            "referenciaId": 5716585,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2023-08-25 23:20:00",
+            "label": "31570/2023-- PRINCIPAL NUEVO -31570/2023",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": []
+        },
+        {
+            "key": 4938532,
+            "referenciaId": 4938532,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2022-06-14 12:50:03",
+            "label": "717/2022--717/2022 PRINCIPAL ANTERIOR  ",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": [
+                {
+                    "key": "55389071_4",
+                    "referenciaId": 55389071,
+                    "icon": "letter-c",
+                    "parent": 4938532,
+                    "data": "2022-10-27 16:50:43",
+                    "label": "27-10-2022-CERTIFICACION-2397/2022-TERMINO DE 3 DÍAS",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "55343946_1",
+                    "referenciaId": 55343946,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-10-26 16:52:38",
+                    "label": "26-10-2022-PROMOCION-15620/2022-CUASE ESTADO SENTENCIA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "55388100_2",
+                            "referenciaId": 55388100,
+                            "icon": "letter-a",
+                            "parent": "55343946_1",
+                            "data": "2022-10-27 16:24:22",
+                            "label": "27-10-2022-ACUERDO-16552/2022-CAUSA EJECUTORIA SENTENCIA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "55442180_6",
+                                    "referenciaId": 55442180,
+                                    "icon": "file-description",
+                                    "parent": "55388100_2",
+                                    "data": "2022-10-30 20:52:58",
+                                    "label": "30-10-2022-NOTIFICACION-11937/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "54497112_3",
+                    "referenciaId": 54497112,
+                    "icon": "letter-s",
+                    "parent": 4938532,
+                    "data": "2022-09-30 12:13:55",
+                    "label": "30-09-2022-SENTENCIA-647/2022-CONDENATORIA",
+                    "cveTipoActuacion": 3,
+                    "color": "#000000",
+                    "idFormulario": "491",
+                    "children": [
+                        {
+                            "key": "56218634_6",
+                            "referenciaId": 56218634,
+                            "icon": "file-description",
+                            "parent": "54497112_3",
+                            "data": "2022-11-27 15:22:38",
+                            "label": "27-11-2022-NOTIFICACION-14199/2022-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "54339375_1",
+                    "referenciaId": 54339375,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-09-26 18:08:17",
+                    "label": "26-09-2022-PROMOCION-13802/2022-SOLICITO SE DICTE SENTENCI",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "54369760_2",
+                            "referenciaId": 54369760,
+                            "icon": "letter-a",
+                            "parent": "54339375_1",
+                            "data": "2022-09-27 13:37:40",
+                            "label": "27-09-2022-ACUERDO-14693/2022-TURNESE A SENTENCIA DEFINITIVA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "56214864_6",
+                                    "referenciaId": 56214864,
+                                    "icon": "file-description",
+                                    "parent": "54369760_2",
+                                    "data": "2022-11-26 12:10:50",
+                                    "label": "26-11-2022-NOTIFICACION-13538/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "53841905_1",
+                    "referenciaId": 53841905,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-09-08 15:48:37",
+                    "label": "08-09-2022-PROMOCION-12826/2022-SE DESAHOGA VISTA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "53879606_2",
+                            "referenciaId": 53879606,
+                            "icon": "letter-a",
+                            "parent": "53841905_1",
+                            "data": "2022-09-09 14:30:15",
+                            "label": "09-09-2022-ACUERDO-13709/2022-DESAHOGA VISTA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "53940750_6",
+                                    "referenciaId": 53940750,
+                                    "icon": "file-description",
+                                    "parent": "53879606_2",
+                                    "data": "2022-09-13 05:14:54",
+                                    "label": "13-09-2022-NOTIFICACION-10426/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "1383918_14",
+                    "referenciaId": 1383918,
+                    "icon": "volume",
+                    "parent": 4938532,
+                    "data": "2022-09-05 10:55:49",
+                    "label": "05-09-2022-AUDIENCIA-717/2022-",
+                    "cveTipoActuacion": 14,
+                    "color": "#000000",
+                    "idFormulario": "483",
+                    "children": []
+                },
+                {
+                    "key": "53579065_1",
+                    "referenciaId": 53579065,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-08-31 22:55:46",
+                    "label": "31-08-2022-PROMOCION-12323/2022-SE PRESENTA PLIEGO DE POSI",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "1382281_14",
+                            "referenciaId": 1382281,
+                            "icon": "volume",
+                            "parent": "53579065_1",
+                            "data": "2022-09-01 13:22:31",
+                            "label": "01-09-2022-AUDIENCIA-717/2022-",
+                            "cveTipoActuacion": 14,
+                            "color": "#000000",
+                            "idFormulario": "483",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "53069538_7",
+                    "referenciaId": 53069538,
+                    "icon": "letter-d",
+                    "parent": 4938532,
+                    "data": "2022-08-16 13:26:23",
+                    "label": "16-08-2022-DILIGENCIA-3440/2022-CITACION",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "52992212_4",
+                    "referenciaId": 52992212,
+                    "icon": "letter-c",
+                    "parent": 4938532,
+                    "data": "2022-08-12 16:28:05",
+                    "label": "12-08-2022-CERTIFICACION-1806/2022-CERTIFICACIÓN",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "52953074_1",
+                    "referenciaId": 52953074,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-08-11 19:32:55",
+                    "label": "11-08-2022-PROMOCION-11208/2022-SE DESAHOGA VISTA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "52992142_2",
+                            "referenciaId": 52992142,
+                            "icon": "letter-a",
+                            "parent": "52953074_1",
+                            "data": "2022-08-12 16:26:32",
+                            "label": "12-08-2022-ACUERDO-12105/2022-ABRIR JUICIO A PRUEBAS",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "55485380_6",
+                                    "referenciaId": 55485380,
+                                    "icon": "file-description",
+                                    "parent": "52992142_2",
+                                    "data": "2022-11-02 13:06:54",
+                                    "label": "02-11-2022-NOTIFICACION-12063/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "52790721_4",
+                    "referenciaId": 52790721,
+                    "icon": "letter-c",
+                    "parent": 4938532,
+                    "data": "2022-08-08 11:35:37",
+                    "label": "08-08-2022-CERTIFICACION-1735/2022-CONTESTACIÓN DE DEMANDA",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "52723564_9",
+                    "referenciaId": 52723564,
+                    "icon": "letter-pt",
+                    "parent": 4938532,
+                    "data": "2022-08-04 20:07:50",
+                    "label": "04-08-2022-PROMOCION DE TERMINO-10753/2022-COPIA SIMPLE DE CAPTURA D",
+                    "cveTipoActuacion": 9,
+                    "color": "#000000",
+                    "idFormulario": "484",
+                    "children": [
+                        {
+                            "key": "52793219_2",
+                            "referenciaId": 52793219,
+                            "icon": "letter-a",
+                            "parent": "52723564_9",
+                            "data": "2022-08-08 12:04:37",
+                            "label": "08-08-2022-ACUERDO-11713/2022-CONTESTACION DE DEMANDA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "56217121_6",
+                                    "referenciaId": 56217121,
+                                    "icon": "file-description",
+                                    "parent": "52793219_2",
+                                    "data": "2022-11-27 00:22:00",
+                                    "label": "27-11-2022-NOTIFICACION-13872/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "52373829_7",
+                    "referenciaId": 52373829,
+                    "icon": "letter-d",
+                    "parent": 4938532,
+                    "data": "2022-07-13 07:30:01",
+                    "label": "13-07-2022-DILIGENCIA-2981/2022-REQUERIMIENTO, EMPLAZAMIENTO Y EMBARGO",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "51693815_4",
+                    "referenciaId": 51693815,
+                    "icon": "letter-c",
+                    "parent": 4938532,
+                    "data": "2022-06-21 11:22:40",
+                    "label": "21-06-2022-CERTIFICACION-1413/2022-TERMINO DE 3 DÍAS",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "51673944_1",
+                    "referenciaId": 51673944,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-06-20 16:40:40",
+                    "label": "20-06-2022-PROMOCION-8849/2022-SE HACEN MANIFESTACIONES",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "51695738_2",
+                            "referenciaId": 51695738,
+                            "icon": "letter-a",
+                            "parent": "51673944_1",
+                            "data": "2022-06-21 11:48:05",
+                            "label": "21-06-2022-ACUERDO-9684/2022-CUMPLE PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "51863346_6",
+                                    "referenciaId": 51863346,
+                                    "icon": "file-description",
+                                    "parent": "51695738_2",
+                                    "data": "2022-06-26 20:31:06",
+                                    "label": "26-06-2022-NOTIFICACION-7373/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "51471236_1",
+                    "referenciaId": 51471236,
+                    "icon": "letter-p",
+                    "parent": 4938532,
+                    "data": "2022-06-14 12:50:24",
+                    "label": "14-06-2022-PROMOCION-8458/2022-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "51505923_2",
+                            "referenciaId": 51505923,
+                            "icon": "letter-a",
+                            "parent": "51471236_1",
+                            "data": "2022-06-15 10:47:31",
+                            "label": "15-06-2022-ACUERDO-9200/2022-ORDENA PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "51999488_6",
+                                    "referenciaId": 51999488,
+                                    "icon": "file-description",
+                                    "parent": "51505923_2",
+                                    "data": "2022-06-29 21:49:48",
+                                    "label": "29-06-2022-NOTIFICACION-7757/2022-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

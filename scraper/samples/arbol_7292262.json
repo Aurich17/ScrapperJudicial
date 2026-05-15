@@ -1,0 +1,333 @@
+{
+    "datetime": "13/05/2026 13:35:00",
+    "request-id": "9df07fd7-c276-4d66-a406-1eadb2fd451d",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 7292262,
+            "referenciaId": 7292262,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2026-01-15 15:08:48",
+            "label": "82/2026--PRINCIPAL",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": [
+                {
+                    "key": "95155551_1",
+                    "referenciaId": 95155551,
+                    "icon": "letter-p",
+                    "parent": 7292262,
+                    "data": "2026-04-21 12:26:02",
+                    "label": "21-04-2026-PROMOCION-12977/2026-SOLICITA CONSTANCIAS",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "95196682_2",
+                            "referenciaId": 95196682,
+                            "icon": "letter-a",
+                            "parent": "95155551_1",
+                            "data": "2026-04-22 09:58:41",
+                            "label": "22-04-2026-ACUERDO-15444/2026-SOLICITAR EXPEDIENTE A ARCHIVO",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "95284817_5",
+                                    "referenciaId": 95284817,
+                                    "icon": "letter-o",
+                                    "parent": "95196682_2",
+                                    "data": "2026-04-23 14:45:53",
+                                    "label": "23-04-2026-OFICIO-3592/2026-PRIMERA SALA COLEGIADA CI",
+                                    "cveTipoActuacion": 5,
+                                    "color": "#000000",
+                                    "idFormulario": "490",
+                                    "children": []
+                                },
+                                {
+                                    "key": "95271466_6",
+                                    "referenciaId": 95271466,
+                                    "icon": "file-description",
+                                    "parent": "95196682_2",
+                                    "data": "2026-04-23 12:26:44",
+                                    "label": "23-04-2026-NOTIFICACION-13177/2026-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "94834022_1",
+                    "referenciaId": 94834022,
+                    "icon": "letter-p",
+                    "parent": 7292262,
+                    "data": "2026-04-13 17:07:55",
+                    "label": "13-04-2026-PROMOCION-11925/2026-SE ACUSA REBELDIA",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "94913832_2",
+                            "referenciaId": 94913832,
+                            "icon": "letter-a",
+                            "parent": "94834022_1",
+                            "data": "2026-04-15 10:28:17",
+                            "label": "15-04-2026-ACUERDO-14358/2026-NO HA LUGAR",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "94987945_6",
+                                    "referenciaId": 94987945,
+                                    "icon": "file-description",
+                                    "parent": "94913832_2",
+                                    "data": "2026-04-16 12:50:16",
+                                    "label": "16-04-2026-NOTIFICACION-12324/2026-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "94357769_4",
+                    "referenciaId": 94357769,
+                    "icon": "letter-c",
+                    "parent": 7292262,
+                    "data": "2026-03-26 07:59:47",
+                    "label": "26-03-2026-CERTIFICACION-736/2026-APELACIÓN",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "93748344_3",
+                    "referenciaId": 93748344,
+                    "icon": "letter-s",
+                    "parent": 7292262,
+                    "data": "2026-03-09 14:04:33",
+                    "label": "09-03-2026-SENTENCIA-224/2026-PROCEDENCIA DE COSA JUZGADA",
+                    "cveTipoActuacion": 3,
+                    "color": "#000000",
+                    "idFormulario": "491",
+                    "children": [
+                        {
+                            "key": "93786391_6",
+                            "referenciaId": 93786391,
+                            "icon": "file-description",
+                            "parent": "93748344_3",
+                            "data": "2026-03-10 11:47:03",
+                            "label": "10-03-2026-NOTIFICACION-8501/2026-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        },
+                        {
+                            "key": "93786295_6",
+                            "referenciaId": 93786295,
+                            "icon": "file-description",
+                            "parent": "93748344_3",
+                            "data": "2026-03-10 11:46:14",
+                            "label": "10-03-2026-NOTIFICACION-8500/2026-PRIMERO CIVIL Y DE EXTINC",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "4165119_14",
+                    "referenciaId": 4165119,
+                    "icon": "volume",
+                    "parent": 7292262,
+                    "data": "2026-02-26 11:47:37",
+                    "label": "26-02-2026-AUDIENCIA-82/2026-UNDEFINED",
+                    "cveTipoActuacion": 14,
+                    "color": "#000000",
+                    "idFormulario": "483",
+                    "children": [
+                        {
+                            "key": "93426075_6",
+                            "referenciaId": 93426075,
+                            "icon": "file-description",
+                            "parent": "4165119_14",
+                            "data": "2026-02-27 11:30:47",
+                            "label": "27-02-2026-NOTIFICACION-7177/2026-",
+                            "cveTipoActuacion": 6,
+                            "color": "#000000",
+                            "idFormulario": "648",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "92635969_1",
+                    "referenciaId": 92635969,
+                    "icon": "letter-p",
+                    "parent": 7292262,
+                    "data": "2026-02-08 11:32:05",
+                    "label": "08-02-2026-PROMOCION-4302/2026-SE ACUSA REBELDIA Y SE PID",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "92732704_2",
+                            "referenciaId": 92732704,
+                            "icon": "letter-a",
+                            "parent": "92635969_1",
+                            "data": "2026-02-10 14:42:53",
+                            "label": "10-02-2026-ACUERDO-5432/2026-ACUSA REBELDIA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "key": "92333703_7",
+                    "referenciaId": 92333703,
+                    "icon": "letter-d",
+                    "parent": 7292262,
+                    "data": "2026-01-29 13:01:21",
+                    "label": "29-01-2026-DILIGENCIA-1150/2026-EMPLAZAMIENTO",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "92333562_7",
+                    "referenciaId": 92333562,
+                    "icon": "letter-d",
+                    "parent": 7292262,
+                    "data": "2026-01-29 12:59:52",
+                    "label": "29-01-2026-DILIGENCIA-1149/2026-EMPLAZAMIENTO",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "92093816_1",
+                    "referenciaId": 92093816,
+                    "icon": "letter-p",
+                    "parent": 7292262,
+                    "data": "2026-01-23 08:56:00",
+                    "label": "23-01-2026-PROMOCION-2273/2026-DESAHOGA DE PREVENCION",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "92151330_2",
+                            "referenciaId": 92151330,
+                            "icon": "letter-a",
+                            "parent": "92093816_1",
+                            "data": "2026-01-26 09:24:22",
+                            "label": "26-01-2026-ACUERDO-2935/2026-ADMITE INICIAL",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "92216220_6",
+                                    "referenciaId": 92216220,
+                                    "icon": "file-description",
+                                    "parent": "92151330_2",
+                                    "data": "2026-01-27 11:28:36",
+                                    "label": "27-01-2026-NOTIFICACION-2783/2026-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                },
+                                {
+                                    "key": "92201867_7",
+                                    "referenciaId": 92201867,
+                                    "icon": "letter-d",
+                                    "parent": "92151330_2",
+                                    "data": "2026-01-27 09:08:16",
+                                    "label": "27-01-2026-TURNO A CENTRAL-968/2026-",
+                                    "cveTipoActuacion": 7,
+                                    "color": "#000000",
+                                    "idFormulario": "498",
+                                    "children": []
+                                },
+                                {
+                                    "key": "92201747_7",
+                                    "referenciaId": 92201747,
+                                    "icon": "letter-d",
+                                    "parent": "92151330_2",
+                                    "data": "2026-01-27 09:06:51",
+                                    "label": "27-01-2026-TURNO A CENTRAL-967/2026-",
+                                    "cveTipoActuacion": 7,
+                                    "color": "#000000",
+                                    "idFormulario": "498",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "91810923_1",
+                    "referenciaId": 91810923,
+                    "icon": "letter-p",
+                    "parent": 7292262,
+                    "data": "2026-01-15 15:08:48",
+                    "label": "15-01-2026-PROMOCION-1323/2026-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "91856254_2",
+                            "referenciaId": 91856254,
+                            "icon": "letter-a",
+                            "parent": "91810923_1",
+                            "data": "2026-01-16 14:00:46",
+                            "label": "16-01-2026-ACUERDO-1763/2026-ADMITE INICIAL",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "91901266_6",
+                                    "referenciaId": 91901266,
+                                    "icon": "file-description",
+                                    "parent": "91856254_2",
+                                    "data": "2026-01-19 12:15:44",
+                                    "label": "19-01-2026-NOTIFICACION-1640/2026-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

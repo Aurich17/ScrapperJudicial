@@ -1,0 +1,122 @@
+{
+    "datetime": "13/05/2026 13:29:02",
+    "request-id": "5f08f4e9-853b-4d36-9507-c4a60e5a4a05",
+    "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
+    "reasonPhrase": "OK",
+    "status": "success",
+    "data": [
+        {
+            "key": 7150816,
+            "referenciaId": 7150816,
+            "icon": "folder-open",
+            "parent": 0,
+            "data": "2050-2025-09-12 10:02:49",
+            "label": "2153/2025--PRINCIPAL",
+            "cveTipoActuacion": null,
+            "color": null,
+            "idFormulario": "499",
+            "children": [
+                {
+                    "key": "88789017_7",
+                    "referenciaId": 88789017,
+                    "icon": "letter-d",
+                    "parent": 7150816,
+                    "data": "2025-10-08 11:51:01",
+                    "label": "08-10-2025-DILIGENCIA-14901/2025-COMPARECENCIA",
+                    "cveTipoActuacion": 7,
+                    "color": "#000000",
+                    "idFormulario": "498",
+                    "children": []
+                },
+                {
+                    "key": "88343073_4",
+                    "referenciaId": 88343073,
+                    "icon": "letter-c",
+                    "parent": 7150816,
+                    "data": "2025-09-26 09:24:18",
+                    "label": "26-09-2025-CERTIFICACION-1930/2025-CERTIFICACIÓN",
+                    "cveTipoActuacion": 4,
+                    "color": "#000000",
+                    "idFormulario": "492",
+                    "children": []
+                },
+                {
+                    "key": "88280469_1",
+                    "referenciaId": 88280469,
+                    "icon": "letter-p",
+                    "parent": 7150816,
+                    "data": "2025-09-25 08:43:30",
+                    "label": "25-09-2025-PROMOCION-37867/2025-DESAHOGA PREVENCIÓN",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "88343265_2",
+                            "referenciaId": 88343265,
+                            "icon": "letter-a",
+                            "parent": "88280469_1",
+                            "data": "2025-09-26 10:26:25",
+                            "label": "26-09-2025-ACUERDO-45533/2025-INADMITE DEMANDA",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "88426114_6",
+                                    "referenciaId": 88426114,
+                                    "icon": "file-description",
+                                    "parent": "88343265_2",
+                                    "data": "2025-09-29 15:17:28",
+                                    "label": "29-09-2025-NOTIFICACION-34555/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "key": "87891572_1",
+                    "referenciaId": 87891572,
+                    "icon": "letter-p",
+                    "parent": 7150816,
+                    "data": "2025-09-12 10:02:49",
+                    "label": "12-09-2025-PROMOCION-36409/2025-PROMOCION INICIAL",
+                    "cveTipoActuacion": 1,
+                    "color": "#000000",
+                    "idFormulario": "482",
+                    "children": [
+                        {
+                            "key": "87951414_2",
+                            "referenciaId": 87951414,
+                            "icon": "letter-a",
+                            "parent": "87891572_1",
+                            "data": "2025-09-17 10:00:43",
+                            "label": "17-09-2025-ACUERDO-43710/2025-ORDENA PREVENCION",
+                            "cveTipoActuacion": 2,
+                            "color": "#000000",
+                            "idFormulario": "493",
+                            "children": [
+                                {
+                                    "key": "88048136_6",
+                                    "referenciaId": 88048136,
+                                    "icon": "file-description",
+                                    "parent": "87951414_2",
+                                    "data": "2025-09-18 21:06:11",
+                                    "label": "18-09-2025-NOTIFICACION-33048/2025-",
+                                    "cveTipoActuacion": 6,
+                                    "color": "#000000",
+                                    "idFormulario": "648",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
