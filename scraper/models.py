@@ -9,6 +9,19 @@ class Expediente(models.Model):
 
     anio = models.IntegerField()
 
+    materia = models.IntegerField(
+        null=True,
+        blank=True,
+        db_index=True
+    )
+
+    adolescentes = models.CharField(
+        max_length=1,
+        null=True,
+        blank=True,
+        db_index=True
+    )
+
     juzgado = models.TextField()
 
     actor = models.TextField(
@@ -43,6 +56,23 @@ class Expediente(models.Model):
 
         return (
             f"{self.numero}/{self.anio}"
+        )
+
+    @property
+    def materia_etiqueta(self):
+        from scraper.utils.constants import MATERIA_ETIQUETAS
+
+        if self.materia is None:
+            return "Sin materia"
+
+        if self.materia == 3:
+            if self.adolescentes == "N":
+                return "PENAL"
+            return "PENAL INDÍGENAS"
+
+        return MATERIA_ETIQUETAS.get(
+            self.materia,
+            f"Materia {self.materia}"
         )
 
 
@@ -126,7 +156,7 @@ class NodoArbol(models.Model):
 
     class Meta:
 
-        ordering = ["-fecha"]
+        ordering = ["fecha"]
 
     def __str__(self):
 

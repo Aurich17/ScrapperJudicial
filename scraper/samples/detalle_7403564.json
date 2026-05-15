@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:37:55",
-    "request-id": "a30fb825-e2e3-4323-8a2f-598b4d4c1184",
+    "datetime": "15/05/2026 08:44:06",
+    "request-id": "4e7cf7ed-5ba9-4532-b485-0e64834033bb",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 7403564,
+            "numero": 291,
+            "anio": "2026",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10160,
+            "cveMateria": 1,
+            "fechaRegistro": "2026-04-12T00:20:07.000000Z",
+            "fechaRadicacion": "2026-04-11 18:20:07",
+            "cveUsuario": 6515,
+            "observaciones": "SE INTERPONE INTERDICTO DE RETENER LA POSESION",
+            "cveEstatus": 60,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 5,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2026-04-12T00:20:07.000000Z",
+            "descCarpetaJudicial": "DEMANDA ELECTRONICA",
+            "fojas": 20,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": null,
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10161,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10160,
+                "DesJuz": "JUZGADO PRIMERO CIVIL DEL DISTRITO JUDICIAL DE OTUMBA",
+                "desCorta": "1 Civ de Otumba"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 14,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 152,
+            "descLiti": "INTERDICTO DE RETENER LA POESESON"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 14602635,
+                    "nombre": "JUAN CARLOS",
+                    "paterno": "CASTAÑOS",
+                    "materno": "CASTILLO",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-04-12T00:17:37.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-04-12T00:17:37.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "JUAN CARLOS CASTAÑOS CASTILLO",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 14602636,
+                    "nombre": "CARLOS JULIAN",
+                    "paterno": "CASTAÑOS",
+                    "materno": "PICONT",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-04-12T00:17:37.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-04-12T00:17:37.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "CARLOS JULIAN CASTAÑOS PICONT",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 14602637,
+                    "nombre": "SOFIA",
+                    "paterno": "RODRIGUEZ",
+                    "materno": "NARANJO",
+                    "nombreBuscar": "",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2026-04-12T00:17:37.000000Z",
+                    "detenido": "N",
+                    "fechaActualizacion": "2026-04-12T00:17:37.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "SOFIA RODRIGUEZ NARANJO",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }

@@ -1,8 +1,142 @@
 {
-    "datetime": "13/05/2026 13:37:58",
-    "request-id": "94e470c0-ecdd-444f-af69-b2bb681e2218",
+    "datetime": "15/05/2026 08:58:10",
+    "request-id": "e1483d2f-f5b1-4ebc-845d-0eb59f9a5c3e",
     "server_host": "tribunalelectronicobk.pjedomex.gob.mx",
-    "reasonPhrase": "Unauthorized",
+    "reasonPhrase": "OK",
     "status": "success",
-    "data": "El token ha caducado."
+    "data": {
+        "carpetaJudicial": {
+            "idCarpetaJudicial": 2539972,
+            "numero": 1087,
+            "anio": "2018",
+            "cveTipoNumero": 1,
+            "nvaInstancia": 1,
+            "cveAdscripcion": 10184,
+            "cveMateria": 1,
+            "fechaRegistro": "2018-09-10T19:45:17.000000Z",
+            "fechaRadicacion": "2018-09-10 00:00:00",
+            "cveUsuario": 18539,
+            "observaciones": "3 PAGARES \n1 CONTRATO EN 10 GOJAS \n1 JUEGO DE COPIAS DE TRASLADO ",
+            "cveEstatus": 1,
+            "cveFase": 9,
+            "carpetaInv": "",
+            "activo": "S",
+            "idSecretariaJuzgado": 197,
+            "cveTipoAmparo": null,
+            "fechaTermino": null,
+            "fechaSuspencion": null,
+            "numAmparo": "",
+            "AutoridadFederal": "",
+            "detenido": "N",
+            "cveAdscripcionOrigen": 0,
+            "cveEstado": 0,
+            "nomAdscripcionOrigen": null,
+            "numeroOrigen": "",
+            "numeroOficio": null,
+            "fechaActualizacion": "2019-05-29T19:31:56.000000Z",
+            "descCarpetaJudicial": "PRINCIPAL",
+            "fojas": 6,
+            "numTocaRel": 0,
+            "aniTocaRel": "",
+            "sintesis": "NINGUNO",
+            "fechaDevolucion": null,
+            "numOficioEnvio": null,
+            "cveOficialia": 10184,
+            "presentaObj": null,
+            "numPromIni": null,
+            "aniPromIni": null,
+            "tbltiposnumero": {
+                "cveTipoNumero": 1,
+                "descTipoNumero": "EXPEDIENTE",
+                "color": null
+            },
+            "juzgado": {
+                "IdJuzgado": 10184,
+                "DesJuz": "JUZGADO QUINTO CIVIL DEL DISTRITO JUDICIAL DE ECATEPEC DE MORELOS CON RESIDENCIA EN TECÁMAC",
+                "desCorta": "5 Civ de Ecatepec (Tecamac)"
+            },
+            "gestion_estados": null
+        },
+        "rango": null,
+        "via": {
+            "cveModalidad": 14,
+            "descModalidad": "ORDINARIO CIVIL"
+        },
+        "juicio": {
+            "cveLiti": 231,
+            "descLiti": "NULIDAD DE CONTRATO"
+        },
+        "antecedeRelacion": null,
+        "partes": {
+            "actores": [
+                {
+                    "idParte": 5665090,
+                    "nombre": "ANDRES",
+                    "paterno": "BERNAL",
+                    "materno": "MORALES",
+                    "nombreBuscar": "ANDRES BERNAL MORALES",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2018-09-10T19:45:14.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2018-09-10T19:45:14.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ANDRES BERNAL MORALES",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                },
+                {
+                    "idParte": 5665091,
+                    "nombre": "ARMANDO",
+                    "paterno": "PEREZ",
+                    "materno": "ARCINIEGA",
+                    "nombreBuscar": "ARMANDO PEREZ ARCINIEGA",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2018-09-10T19:45:14.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2018-09-10T19:45:14.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ARMANDO PEREZ ARCINIEGA",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "demandados": [
+                {
+                    "idParte": 5665092,
+                    "nombre": "ADOLFO MANUEL",
+                    "paterno": "MATEOS",
+                    "materno": "SANCHEZ",
+                    "nombreBuscar": "ADOLFO MANUEL MATEOS SANCHEZ",
+                    "edad": 0,
+                    "fechaNacimiento": "0000-00-00",
+                    "CURP": "",
+                    "cveGenero": 0,
+                    "activo": "S",
+                    "fechaRegistro": "2018-09-10T19:45:14.000000Z",
+                    "detenido": "",
+                    "fechaActualizacion": "2018-09-10T19:45:14.000000Z",
+                    "cveTipoPersona": 1,
+                    "nombrePersonaMoral": "",
+                    "numFolioConvivencia": null,
+                    "nombreCompleto": "ADOLFO MANUEL MATEOS SANCHEZ",
+                    "tipoPersona": "FISICA",
+                    "genero": null
+                }
+            ],
+            "terceros_perjudicados": []
+        },
+        "estatusexhortosgen": null
+    }
 }
